@@ -1,0 +1,15 @@
+py库安装，也可以用requirements
+# pip3 install PyQt5
+pip3 install PySide2
+pip3 install steam
+pip3 install python-a2s
+pip3 install pyinstaller
+pip3 install qasync
+pip3 install asyncio
+# qss美化
+pip3 install qdarkstyle
+# 模糊匹配
+pip3 install fuzzywuzzy[speedup]
+# 打成exe
+pyinstaller -F -w main.py --noconsole -n L4D2火绒屏蔽IP扫描生成器
+pyinstaller -F -w main.py -p D:\l4d2_plugins\BlockRPG --noconsole -n L4D2火绒屏蔽IP扫描生成器
