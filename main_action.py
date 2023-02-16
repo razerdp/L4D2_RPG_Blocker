@@ -181,13 +181,18 @@ class Panel(QWidget):
         if not self.scan_list:
             return []
         ret = []
+        ip_set = set()
         for idx, data in enumerate(self.scan_list):
+            ip = data['ip']
+            if ip in ip_set:
+                continue
+            ip_set.add(ip)
             ret.append(
                 {
                     'id': idx,
-                    'raddr': data['ip'],
+                    'raddr': ip,
                     'tmp_field_sel': True,
-                    'memo': '%s(端口:%s)' % (data['name'], data['port'])
+                    'memo': data['name']
                 }
             )
         return ret
