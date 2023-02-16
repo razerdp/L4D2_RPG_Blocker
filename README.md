@@ -1,0 +1,2 @@
+# L4D2_RPG_Blocker
+针对RPG服务器的火绒json生成软件
