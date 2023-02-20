@@ -108,8 +108,10 @@ def createIpBlackList(scan_list):
 
 
 class CalThread(threading.Thread):
-    self.idx = 0
-    self.mark_count = 0
+    def __init__(self):
+        super(CalThread, self).__init__()
+        self.idx = 0
+        self.mark_count = 0
 
     def run(self):
         while True:
