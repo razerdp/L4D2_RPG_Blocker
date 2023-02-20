@@ -106,3 +106,5 @@ if ret:
     with open(out_put, 'w', encoding='utf-8') as f:
         f.write(json.dumps(ret, ensure_ascii=False, indent=2))
         f.close()
+else:
+    print('no content')
