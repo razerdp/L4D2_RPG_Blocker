@@ -1,14 +1,20 @@
 # -*- coding: utf-8 -*-
 # created by fengweichao on 2023/2/20
+import time
+
 import steam.game_servers as gs
 import datetime
 import json
 import os
 import traceback
 from fuzzywuzzy import fuzz
+import threading
 
 DEFAULT_KEYS = '弑神巅峰;RPG;杀戮世界;橡子杀戮;幻想杀戮;天域;午夜狂欢;猎人;帝王;风花雪月;暗黑之魂;无法逃脱;AK0048;梦幻天堂;腐尸之地;紫荆之巅;上帝之手;经典怀旧服;无人永生;星缘天空;破晓;混乱纪元;原生之初'
 DEFAULT_RATIO = 25
+
+cur_idx = 0
+force_fin = False
 
 
 def strKey2List(str_keys):
@@ -31,7 +37,6 @@ def strKey2List(str_keys):
 
 
 def serverInfo(checker_keys, server_addr):
-    print(server_addr)
     if not server_addr:
         return None
     ret = None
@@ -41,7 +46,6 @@ def serverInfo(checker_keys, server_addr):
         if server_info:
             name = server_info.get('name')
             if name:
-                print(name)
                 for check_name, check_ratio in checker_keys:
                     score = fuzz.ratio(name, check_name)
                     if score >= check_ratio:
@@ -62,18 +66,20 @@ def scan(
     count,
     region=gs.MSRegion.Asia,
 ):
+    global cur_idx
+    global force_fin
     result = []
     checker_keys = list(checker_keys)
-    print(checker_keys)
-    cur_idx = 0
     try:
         for server_addr in gs.query_master(
             r'\appid\550', max_servers=count, region=region, timeout=1
         ):
+            if force_fin:
+                break
             cur_idx += 1
             ret, server_info = serverInfo(checker_keys, server_addr)
             if ret:
-                print(ret)
+                print('找到RPG:', ret)
                 result.append(ret)
     except:
         traceback.print_exc()
@@ -101,6 +107,28 @@ def createIpBlackList(scan_list):
     return ret
 
 
+class CalThread(threading.Thread):
+    self.idx = 0
+    self.mark_count = 0
+
+    def run(self):
+        while True:
+            global cur_idx
+            print('process: ', cur_idx)
+            if cur_idx != self.idx:
+                self.idx = cur_idx
+                self.mark_count = 0
+                time.sleep(10)
+            else:
+                if self.mark_count > 10:
+                    global force_fin
+                    force_fin = True
+                    return
+                self.mark_count += 1
+
+
+thread = CalThread()
+thread.start()
 ret = scan(strKey2List(DEFAULT_KEYS), 8000, gs.MSRegion.World)
 if ret:
     date = datetime.datetime.strftime(datetime.datetime.now(), '%Y_%m_%d')
@@ -112,4 +140,4 @@ if ret:
         f.write(json.dumps(ret, ensure_ascii=False, indent=2))
         f.close()
 else:
-    print('no content')
+    print('么的内容')
