@@ -127,6 +127,7 @@ class CalThread(threading.Thread):
                     force_fin = True
                     return
                 self.mark_count += 1
+                time.sleep(10)
 
 
 thread = CalThread()
