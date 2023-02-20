@@ -11,10 +11,6 @@ on:
 
 permissions:
   contents: read
-  
-defaults:
-  run:
-    working-directory: L4D2_RPG_BLOCKER
 
 jobs:
   build:
