@@ -13,9 +13,27 @@ from PySide2.QtCore import *
 from PySide2.QtGui import *
 from PySide2.QtWidgets import *
 
+import steam.game_servers as gs
+
 STATE_IDLE = 0
 STATE_SCANING = 1
 STATE_DONE = 2
+
+KEYS = ('亚洲', '南美洲', '美洲东部', '美洲西部', '欧洲', '澳大利亚', '中东', '非洲', '全球')
+
+REGIONS = {
+    '全球': gs.MSRegion.World,
+    '南美洲': gs.MSRegion.South_America,
+    '美洲东部': gs.MSRegion.US_East,
+    '美洲西部': gs.MSRegion.US_West,
+    '欧洲': gs.MSRegion.Europe,
+    '亚洲': gs.MSRegion.Asia,
+    '澳大利亚': gs.MSRegion.Australia,
+    '中东': gs.MSRegion.Middle_East,
+    '非洲': gs.MSRegion.Africa
+}
+
+DEFAULT_REGIONS = '亚洲'
 
 
 class UiSignals(QObject):
@@ -65,6 +83,11 @@ class Panel(QWidget):
 
     def initButton(self, root_layout):
         layout = QHBoxLayout()
+        self.region_list = QComboBox(self.main_window)
+        for item in KEYS:
+            self.region_list.addItem(item)
+        self.region_list.setCurrentIndex(0)
+        layout.addWidget(self.region_list)
         self.scan_button = self.createButton('扫描')
         self.scan_button.clicked.connect(self.onScanClick)
         layout.addWidget(self.scan_button, 1)
@@ -113,6 +136,7 @@ class Panel(QWidget):
                 self.setState(STATE_SCANING)
                 self.thread_stop = rpg_filter.backGroundScan(
                     self.main_window.panel_setting.keys, count,
+                    REGIONS.get(self.region_list.currentText(), gs.MSRegion.Asia),
                     self.ui_signal.progress_signal, self.ui_signal.ret_signal
                 )
         else:
