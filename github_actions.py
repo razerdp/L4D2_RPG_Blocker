@@ -31,6 +31,7 @@ def strKey2List(str_keys):
 
 
 def serverInfo(checker_keys, server_addr):
+    print(server_addr)
     if not server_addr:
         return None
     ret = None
@@ -63,6 +64,7 @@ def scan(
 ):
     result = []
     checker_keys = list(checker_keys)
+    print(checker_keys)
     cur_idx = 0
     try:
         for server_addr in gs.query_master(
