@@ -51,7 +51,7 @@ def serverInfo(checker_keys, server_addr):
                         }
                         break
     except:
-        traceback.print_exc()
+        pass
     return ret, server_info
 
 
@@ -70,9 +70,10 @@ def scan(
             cur_idx += 1
             ret, server_info = serverInfo(checker_keys, server_addr)
             if ret:
+                print(ret)
                 result.append(ret)
     except:
-        pass
+        traceback.print_exc()
     return result
 
 
