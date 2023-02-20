@@ -39,5 +39,5 @@ jobs:
         git config --local user.name "razerdp"
         git add .
         git commit -m "update" -a
-        git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        git remote set-url origin https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}
         git push
