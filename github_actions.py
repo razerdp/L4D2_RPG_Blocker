@@ -40,6 +40,7 @@ def serverInfo(checker_keys, server_addr):
         if server_info:
             name = server_info.get('name')
             if name:
+                print(name)
                 for check_name, check_ratio in checker_keys:
                     score = fuzz.ratio(name, check_name)
                     if score >= check_ratio:
@@ -98,7 +99,7 @@ def createIpBlackList(scan_list):
     return ret
 
 
-ret = scan(strKey2List(DEFAULT_KEYS), 10000, gs.MSRegion.World)
+ret = scan(strKey2List(DEFAULT_KEYS), 8000, gs.MSRegion.World)
 if ret:
     date = datetime.datetime.strftime(datetime.datetime.now(), '%Y_%m_%d')
     if not os.path.isdir('./IP_BLOCKER'):
