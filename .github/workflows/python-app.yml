@@ -32,6 +32,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run Github Scan Action
       run: |
+        cd L4D2_RPG_Blocker
         python github_actions.py
     - name: Auto Commit Push
       run: |
