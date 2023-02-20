@@ -79,7 +79,7 @@ def scan(
             cur_idx += 1
             ret, server_info = serverInfo(checker_keys, server_addr)
             if ret:
-                print('找到RPG:', ret)
+                print('找到目标:', ret)
                 result.append(ret)
     except:
         traceback.print_exc()
@@ -114,9 +114,9 @@ class CalThread(threading.Thread):
         self.mark_count = 0
 
     def run(self):
+        global cur_idx
         while True:
-            global cur_idx
-            print('process: ', cur_idx)
+            print('进度: ', cur_idx)
             if cur_idx != self.idx:
                 self.idx = cur_idx
                 self.mark_count = 0
@@ -132,7 +132,7 @@ class CalThread(threading.Thread):
 
 thread = CalThread()
 thread.start()
-ret = scan(strKey2List(DEFAULT_KEYS), 8000, gs.MSRegion.World)
+ret = scan(strKey2List(DEFAULT_KEYS), 10000, gs.MSRegion.Asia)
 if ret:
     date = datetime.datetime.strftime(datetime.datetime.now(), '%Y_%m_%d')
     if not os.path.isdir('./IP_BLOCKER'):
