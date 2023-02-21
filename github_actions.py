@@ -55,8 +55,8 @@ def serverInfo(checker_keys, server_addr):
                             'score': score,
                             'name': name
                         }
+                        print(ret)
                         break
-                print(name, ret)
     except:
         pass
     return ret, server_info
@@ -73,7 +73,7 @@ def scan(
     checker_keys = list(checker_keys)
     try:
         for server_addr in gs.query_master(
-            r'\appid\550', max_servers=count, region=region, timeout=1
+            r'\appid\550', max_servers=count, region=region
         ):
             if force_fin:
                 break
@@ -117,7 +117,6 @@ class CalThread(threading.Thread):
         global cur_idx
         global force_fin
         while not force_fin:
-            print('进度: ', cur_idx)
             if cur_idx != self.idx:
                 self.idx = cur_idx
                 self.mark_count = 0
@@ -132,7 +131,7 @@ class CalThread(threading.Thread):
 
 thread = CalThread()
 thread.start()
-ret = scan(strKey2List(DEFAULT_KEYS), 100, gs.MSRegion.Asia)
+ret = scan(strKey2List(DEFAULT_KEYS), 100000, gs.MSRegion.World)
 if ret:
     date = datetime.datetime.strftime(datetime.datetime.now(), '%Y_%m_%d')
     if not os.path.isdir('./IP_BLOCKER'):
