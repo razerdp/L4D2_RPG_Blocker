@@ -14,3 +14,4 @@ pip3 install fuzzywuzzy[speedup]
 # 打成exe
 pyinstaller -F -w main.py --noconsole -n L4D2火绒屏蔽IP扫描生成器
 pyinstaller -F -w main.py -p D:\l4d2_plugins\BlockRPG --noconsole -n L4D2火绒屏蔽IP扫描生成器
+pyinstaller -F -w main.py -p E:\L4D2-Plugins\BlockRPG --noconsole -n L4D2火绒屏蔽IP扫描生成器

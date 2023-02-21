@@ -7,7 +7,7 @@ import rpg_filter
 import main_action
 import scan_settings
 import functools
-import requests
+# import requests
 import json
 
 
@@ -16,7 +16,7 @@ class MainWindow(QMainWindow):
         super(MainWindow, self).__init__()
         if not self.objectName():
             self.setObjectName('main_window')
-        self.setWindowTitle('L4D2火绒屏蔽IP扫描生成器')
+        self.setWindowTitle('L4D2火绒屏蔽IP扫描生成器 v1.1')
         self.resize(1280, 720)
         self.initToolBar()
         # 主界面
@@ -29,7 +29,7 @@ class MainWindow(QMainWindow):
         main_widget.setLayout(self.root)
         self.setCentralWidget(main_widget)
         self.root.setCurrentIndex(0)
-        self.checkUpdate()
+        # self.checkUpdate()
 
     def initToolBar(self):
         btn_scan = self.createButton('扫描')
@@ -55,9 +55,9 @@ class MainWindow(QMainWindow):
         if 0 <= idx < self.root.count():
             self.root.setCurrentIndex(idx)
 
-    def checkUpdate(self):
-        ver = settings.GetSettings('version', '1.0')
-        response = requests.get(
-            'https://api.github.com/repos/razerdp/L4D2_RPG_Blocker/releases/latest'
-        )
-        data = json.loads(response.text)
+    # def checkUpdate(self):
+    #     ver = settings.GetSettings('version', '1.0')
+    #     response = requests.get(
+    #         'https://api.github.com/repos/razerdp/L4D2_RPG_Blocker/releases/latest'
+    #     )
+    #     data = json.loads(response.text)
