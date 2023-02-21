@@ -56,6 +56,7 @@ def serverInfo(checker_keys, server_addr):
                             'name': name
                         }
                         break
+                print(name, ret)
     except:
         pass
     return ret, server_info
@@ -114,7 +115,8 @@ class CalThread(threading.Thread):
 
     def run(self):
         global cur_idx
-        while True:
+        global force_fin
+        while not force_fin:
             print('进度: ', cur_idx)
             if cur_idx != self.idx:
                 self.idx = cur_idx
@@ -122,7 +124,6 @@ class CalThread(threading.Thread):
                 time.sleep(10)
             else:
                 if self.mark_count > 3:
-                    global force_fin
                     force_fin = True
                     return
                 self.mark_count += 1
@@ -131,7 +132,7 @@ class CalThread(threading.Thread):
 
 thread = CalThread()
 thread.start()
-ret = scan(strKey2List(DEFAULT_KEYS), 10000, gs.MSRegion.World)
+ret = scan(strKey2List(DEFAULT_KEYS), 100, gs.MSRegion.World)
 if ret:
     date = datetime.datetime.strftime(datetime.datetime.now(), '%Y_%m_%d')
     if not os.path.isdir('./IP_BLOCKER'):
@@ -143,3 +144,4 @@ if ret:
         f.close()
 else:
     print('么的内容')
+    force_fin = True
