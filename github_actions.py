@@ -131,7 +131,7 @@ class CalThread(threading.Thread):
 
 thread = CalThread()
 thread.start()
-ret = scan(strKey2List(DEFAULT_KEYS), 100000, gs.MSRegion.World)
+ret = scan(strKey2List(DEFAULT_KEYS), 30000, gs.MSRegion.Asia)
 if ret:
     date = datetime.datetime.strftime(datetime.datetime.now(), '%Y_%m_%d')
     if not os.path.isdir('./IP_BLOCKER'):
