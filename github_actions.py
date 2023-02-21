@@ -79,7 +79,6 @@ def scan(
             cur_idx += 1
             ret, server_info = serverInfo(checker_keys, server_addr)
             if ret:
-                print('找到目标:', ret)
                 result.append(ret)
     except:
         traceback.print_exc()
@@ -122,7 +121,7 @@ class CalThread(threading.Thread):
                 self.mark_count = 0
                 time.sleep(10)
             else:
-                if self.mark_count > 10:
+                if self.mark_count > 3:
                     global force_fin
                     force_fin = True
                     return
@@ -132,7 +131,7 @@ class CalThread(threading.Thread):
 
 thread = CalThread()
 thread.start()
-ret = scan(strKey2List(DEFAULT_KEYS), 300, gs.MSRegion.Asia)
+ret = scan(strKey2List(DEFAULT_KEYS), 10000, gs.MSRegion.World)
 if ret:
     date = datetime.datetime.strftime(datetime.datetime.now(), '%Y_%m_%d')
     if not os.path.isdir('./IP_BLOCKER'):
