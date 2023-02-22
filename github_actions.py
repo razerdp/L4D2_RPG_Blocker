@@ -16,6 +16,8 @@ DEFAULT_RATIO = 25
 cur_idx = 0
 force_fin = False
 
+ips = {}
+
 
 def strKey2List(str_keys):
     str_keys = str_keys.replace('；', ';')
@@ -55,7 +57,10 @@ def serverInfo(checker_keys, server_addr):
                             'score': score,
                             'name': name
                         }
-                        print(ret)
+                        global ips
+                        if server_addr[0] not in ips:
+                            ips[server_addr[0]] = None
+                            print(ret)
                         break
     except:
         pass
