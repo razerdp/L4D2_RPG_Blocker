@@ -4,8 +4,6 @@
 name: L4D2_RPG_BLOCKER
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "0 2 * * *"
 
