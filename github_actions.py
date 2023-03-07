@@ -3,7 +3,6 @@
 import time
 
 import steam.game_servers as gs
-import datetime
 import json
 import os
 import traceback
@@ -134,10 +133,9 @@ thread = CalThread()
 thread.start()
 ret = scan(strKey2List(DEFAULT_KEYS), 30000, gs.MSRegion.Asia)
 if ret:
-    date = datetime.datetime.strftime(datetime.datetime.now(), '%Y_%m_%d')
     if not os.path.isdir('./IP_BLOCKER'):
         os.mkdir('./IP_BLOCKER')
-    out_put = './IP_BLOCKER/L4D2_IP_BLOCKER_%s.json' % date
+    out_put = './IP_BLOCKER/L4D2_IP_BLOCKER.json'
     ret = {'ver': '5.0', 'tag': 'ipblacklist', 'data': createIpBlackList(ret)}
     with open(out_put, 'w', encoding='utf-8') as f:
         f.write(json.dumps(ret, ensure_ascii=False, indent=2))
