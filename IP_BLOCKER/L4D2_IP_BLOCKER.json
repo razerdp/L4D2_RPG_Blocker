@@ -6,10 +6,10 @@
       "id": 0,
       "raddr": "119.29.13.29",
       "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG捌服"
+      "memo": "﻿【完美世界】RPG陆服"
     },
     {
-      "id": 1,
+      "id": 2,
       "raddr": "47.240.50.218",
       "tmp_field_sel": true,
       "memo": "﻿【HK】48.無限多特"
@@ -18,83 +18,89 @@
       "id": 4,
       "raddr": "120.24.206.219",
       "tmp_field_sel": true,
-      "memo": "﻿T35幻想杀戮经典服"
+      "memo": "﻿T33幻想杀戮新手服"
     },
     {
       "id": 5,
-      "raddr": "120.24.67.55",
+      "raddr": "119.23.51.163",
       "tmp_field_sel": true,
-      "memo": "﻿11#幻想杀戮经典服"
+      "memo": "﻿#83杀戮世界新手服"
     },
     {
       "id": 7,
-      "raddr": "120.77.24.39",
+      "raddr": "120.79.5.0",
       "tmp_field_sel": true,
-      "memo": "﻿#64杀戮世界菜鸟服"
+      "memo": "﻿T46幻想杀戮经典服"
     },
     {
       "id": 8,
-      "raddr": "120.77.206.2",
+      "raddr": "120.78.174.64",
       "tmp_field_sel": true,
-      "memo": "﻿99#杀戮世界经典服"
+      "memo": "﻿7#杀戮世界菜鸟服"
+    },
+    {
+      "id": 10,
+      "raddr": "119.23.140.3",
+      "tmp_field_sel": true,
+      "memo": "﻿X35橡子杀戮新手服"
     },
     {
       "id": 11,
+      "raddr": "120.24.67.55",
+      "tmp_field_sel": true,
+      "memo": "﻿T15幻想杀戮经典服"
+    },
+    {
+      "id": 12,
+      "raddr": "120.77.206.2",
+      "tmp_field_sel": true,
+      "memo": "﻿43#杀戮世界新手服"
+    },
+    {
+      "id": 13,
+      "raddr": "120.79.41.192",
+      "tmp_field_sel": true,
+      "memo": "﻿21#杀戮世界新手服"
+    },
+    {
+      "id": 27,
+      "raddr": "120.77.24.39",
+      "tmp_field_sel": true,
+      "memo": "﻿#55杀戮世界菜鸟服"
+    },
+    {
+      "id": 31,
       "raddr": "120.79.5.148",
       "tmp_field_sel": true,
       "memo": "﻿X11橡子杀戮新手服"
     },
     {
-      "id": 12,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿24#杀戮世界新手服"
-    },
-    {
-      "id": 15,
-      "raddr": "119.23.140.3",
-      "tmp_field_sel": true,
-      "memo": "﻿X33橡子杀戮经典服"
-    },
-    {
-      "id": 16,
-      "raddr": "119.23.51.163",
-      "tmp_field_sel": true,
-      "memo": "﻿#86杀戮世界菜鸟服"
-    },
-    {
-      "id": 17,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T43幻想杀戮菜鸟服"
-    },
-    {
-      "id": 25,
-      "raddr": "120.78.174.64",
-      "tmp_field_sel": true,
-      "memo": "﻿18#杀戮高手三方服"
-    },
-    {
-      "id": 146,
+      "id": 32,
       "raddr": "120.77.176.118",
       "tmp_field_sel": true,
       "memo": "多人多特旧服【官图】"
     },
     {
-      "id": 181,
+      "id": 177,
       "raddr": "103.59.113.238",
       "tmp_field_sel": true,
       "memo": "[腐尸之地]♂RPG"
     },
     {
-      "id": 182,
+      "id": 179,
+      "raddr": "150.242.98.39",
+      "tmp_field_sel": true,
+      "memo": "[腐尸之地]♂RPG"
+    },
+    {
+      "id": 181,
       "raddr": "125.77.172.193",
       "tmp_field_sel": true,
       "memo": "﻿AKB0048|四人生存服务器"
     },
     {
-      "id": 183,
-      "raddr": "150.242.98.39",
+      "id": 184,
+      "raddr": "43.242.73.119",
       "tmp_field_sel": true,
       "memo": "[腐尸之地]♂RPG"
     },
@@ -105,70 +111,64 @@
       "memo": "[腐尸之地]♂RPG"
     },
     {
-      "id": 196,
-      "raddr": "43.242.73.119",
+      "id": 216,
+      "raddr": "175.183.32.58",
       "tmp_field_sel": true,
-      "memo": "[腐尸之地]♂RPG"
+      "memo": "阿起世界 RPG 戰役"
+    },
+    {
+      "id": 217,
+      "raddr": "61.183.41.77",
+      "tmp_field_sel": true,
+      "memo": "﻿X2风花雪月RPG★新手服"
     },
     {
       "id": 220,
-      "raddr": "61.183.41.77",
-      "tmp_field_sel": true,
-      "memo": "﻿X3风花雪月RPG★正常服"
-    },
-    {
-      "id": 223,
       "raddr": "116.211.145.63",
       "tmp_field_sel": true,
-      "memo": "10#[白色]上帝之手"
+      "memo": "9#[白色]上帝之手"
+    },
+    {
+      "id": 230,
+      "raddr": "112.124.53.150",
+      "tmp_field_sel": true,
+      "memo": "﻿【完美世界】RPG拾壹服"
     },
     {
       "id": 233,
-      "raddr": "112.124.53.150",
-      "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG拾服"
-    },
-    {
-      "id": 236,
       "raddr": "61.160.213.219",
       "tmp_field_sel": true,
-      "memo": "﻿暗黑之魂[RPG]#1"
+      "memo": "﻿暗黑之魂[RPG]#7"
     },
     {
-      "id": 244,
+      "id": 241,
       "raddr": "117.50.174.116",
       "tmp_field_sel": true,
       "memo": "EPIC"
     },
     {
-      "id": 245,
-      "raddr": "43.248.184.77",
-      "tmp_field_sel": true,
-      "memo": "3S無人永生RPG战役"
-    },
-    {
-      "id": 246,
+      "id": 242,
       "raddr": "43.248.185.161",
       "tmp_field_sel": true,
       "memo": "﻿帝王RPG战役服[数据互通]"
     },
     {
-      "id": 250,
-      "raddr": "222.187.232.63",
+      "id": 244,
+      "raddr": "43.248.184.77",
       "tmp_field_sel": true,
-      "memo": "﻿X12风花雪月RPG★正常服"
+      "memo": "3D無人永生RPG战役"
     },
     {
-      "id": 270,
+      "id": 253,
       "raddr": "43.248.184.17",
       "tmp_field_sel": true,
       "memo": "猛男服"
     },
     {
-      "id": 6282,
-      "raddr": "14.135.101.120",
+      "id": 263,
+      "raddr": "222.187.232.63",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役105#"
+      "memo": "﻿X12风花雪月RPG★正常服"
     }
   ]
 }
