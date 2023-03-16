@@ -4,183 +4,39 @@
   "data": [
     {
       "id": 0,
-      "raddr": "121.62.23.79",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-弑神巅峰"
-    },
-    {
-      "id": 1,
-      "raddr": "121.62.23.128",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-弑神巅峰"
-    },
-    {
-      "id": 2,
-      "raddr": "121.62.22.28",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-弑神巅峰"
-    },
-    {
-      "id": 3,
-      "raddr": "121.62.22.130",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-弑神巅峰"
-    },
-    {
-      "id": 9,
       "raddr": "61.136.166.72",
       "tmp_field_sel": true,
       "memo": "﻿[趣味]-弑神巅峰"
     },
     {
-      "id": 21,
+      "id": 2,
+      "raddr": "121.62.23.128",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-弑神巅峰"
+    },
+    {
+      "id": 7,
+      "raddr": "121.62.23.79",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-弑神巅峰"
+    },
+    {
+      "id": 11,
+      "raddr": "121.62.22.28",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-弑神巅峰"
+    },
+    {
+      "id": 19,
+      "raddr": "121.62.22.130",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-弑神巅峰"
+    },
+    {
+      "id": 2376,
       "raddr": "61.183.41.77",
       "tmp_field_sel": true,
-      "memo": "﻿X3风花雪月RPG★正常服"
-    },
-    {
-      "id": 272,
-      "raddr": "110.177.144.8",
-      "tmp_field_sel": true,
-      "memo": "14人绝境求生 8服"
-    },
-    {
-      "id": 273,
-      "raddr": "119.29.13.29",
-      "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG陆服"
-    },
-    {
-      "id": 276,
-      "raddr": "119.23.51.163",
-      "tmp_field_sel": true,
-      "memo": "﻿#77杀戮世界菜鸟服"
-    },
-    {
-      "id": 278,
-      "raddr": "119.23.140.3",
-      "tmp_field_sel": true,
-      "memo": "﻿X36橡子杀戮新手服"
-    },
-    {
-      "id": 280,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X8橡子杀戮经典服"
-    },
-    {
-      "id": 281,
-      "raddr": "120.77.24.39",
-      "tmp_field_sel": true,
-      "memo": "﻿#61杀戮世界经典服"
-    },
-    {
-      "id": 282,
-      "raddr": "120.78.174.64",
-      "tmp_field_sel": true,
-      "memo": "﻿16#杀戮世界高手服"
-    },
-    {
-      "id": 283,
-      "raddr": "120.77.206.2",
-      "tmp_field_sel": true,
-      "memo": "﻿44#杀戮世界新手服"
-    },
-    {
-      "id": 284,
-      "raddr": "120.24.206.219",
-      "tmp_field_sel": true,
-      "memo": "﻿T34幻想杀戮新手服"
-    },
-    {
-      "id": 286,
-      "raddr": "120.24.67.55",
-      "tmp_field_sel": true,
-      "memo": "﻿T9幻想杀戮新手服"
-    },
-    {
-      "id": 288,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿27#杀戮世界菜鸟服"
-    },
-    {
-      "id": 297,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T41幻想杀戮新手服"
-    },
-    {
-      "id": 451,
-      "raddr": "125.77.172.193",
-      "tmp_field_sel": true,
-      "memo": "﻿AK0048|出租服务器"
-    },
-    {
-      "id": 452,
-      "raddr": "150.242.98.50",
-      "tmp_field_sel": true,
-      "memo": "4♂[腐尸之地]RPG"
-    },
-    {
-      "id": 457,
-      "raddr": "103.59.113.238",
-      "tmp_field_sel": true,
-      "memo": "11♂[腐尸之地]RPG"
-    },
-    {
-      "id": 458,
-      "raddr": "150.242.98.39",
-      "tmp_field_sel": true,
-      "memo": "21♂[腐尸之地]RPG"
-    },
-    {
-      "id": 459,
-      "raddr": "43.242.73.119",
-      "tmp_field_sel": true,
-      "memo": "33♂[腐尸之地]RPG"
-    },
-    {
-      "id": 490,
-      "raddr": "116.211.145.63",
-      "tmp_field_sel": true,
-      "memo": "2#[白色]上帝之手"
-    },
-    {
-      "id": 500,
-      "raddr": "222.187.232.63",
-      "tmp_field_sel": true,
-      "memo": "﻿X11风花雪月RPG★正常服"
-    },
-    {
-      "id": 502,
-      "raddr": "43.248.185.161",
-      "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
-    },
-    {
-      "id": 514,
-      "raddr": "43.248.184.77",
-      "tmp_field_sel": true,
-      "memo": "3R無人永生RPG战役"
-    },
-    {
-      "id": 516,
-      "raddr": "43.248.184.17",
-      "tmp_field_sel": true,
-      "memo": "猛男服"
-    },
-    {
-      "id": 518,
-      "raddr": "43.248.190.113",
-      "tmp_field_sel": true,
-      "memo": "雪静"
-    },
-    {
-      "id": 3294,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "﻿「天域」苍蓝娱乐服"
+      "memo": "﻿X1风花雪月RPG★新手服"
     }
   ]
 }
