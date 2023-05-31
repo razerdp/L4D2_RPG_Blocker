@@ -4,321 +4,243 @@
   "data": [
     {
       "id": 0,
-      "raddr": "114.132.252.231",
+      "raddr": "120.24.67.55",
       "tmp_field_sel": true,
-      "memo": "﻿天下第一RPG"
+      "memo": "﻿T5幻想杀戮高手服"
     },
     {
       "id": 1,
-      "raddr": "1.117.146.10",
+      "raddr": "120.79.5.148",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役131#"
+      "memo": "﻿X17橡子杀戮菜鸟服"
     },
     {
       "id": 3,
-      "raddr": "124.221.139.51",
+      "raddr": "120.24.206.219",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役113#"
+      "memo": "﻿T33幻想杀戮新手服"
     },
     {
-      "id": 5,
-      "raddr": "162.14.104.212",
+      "id": 7,
+      "raddr": "120.79.41.192",
       "tmp_field_sel": true,
-      "memo": "[FK]进阶包抗100tick#2"
+      "memo": "﻿T22幻想杀戮新手服"
     },
     {
       "id": 9,
-      "raddr": "43.143.77.230",
-      "tmp_field_sel": true,
-      "memo": "﻿白楠地"
-    },
-    {
-      "id": 12,
-      "raddr": "43.136.31.152",
-      "tmp_field_sel": true,
-      "memo": "﻿#[RPG]紫荆之巅#"
-    },
-    {
-      "id": 13,
-      "raddr": "1.12.60.31",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
-    },
-    {
-      "id": 15,
-      "raddr": "101.43.47.116",
-      "tmp_field_sel": true,
-      "memo": "CBRN沙雕大舞台"
-    },
-    {
-      "id": 26,
-      "raddr": "81.70.96.146",
-      "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役119#"
-    },
-    {
-      "id": 27,
-      "raddr": "101.33.201.33",
-      "tmp_field_sel": true,
-      "memo": "多人多特战役"
-    },
-    {
-      "id": 37,
-      "raddr": "101.33.227.27",
-      "tmp_field_sel": true,
-      "memo": "LS萌新服:1007476367"
-    },
-    {
-      "id": 40,
-      "raddr": "123.113.150.232",
-      "tmp_field_sel": true,
-      "memo": "﻿【CN】內鬼樂園"
-    },
-    {
-      "id": 44,
-      "raddr": "152.136.141.131",
-      "tmp_field_sel": true,
-      "memo": "放空思想"
-    },
-    {
-      "id": 56,
-      "raddr": "43.136.92.46",
-      "tmp_field_sel": true,
-      "memo": "^o^黑猫的愉快求生之路"
-    },
-    {
-      "id": 59,
-      "raddr": "1.14.62.120",
-      "tmp_field_sel": true,
-      "memo": "﻿遗失世界"
-    },
-    {
-      "id": 63,
-      "raddr": "124.222.2.254",
-      "tmp_field_sel": true,
-      "memo": "永世乐土"
-    },
-    {
-      "id": 77,
-      "raddr": "175.178.96.5",
-      "tmp_field_sel": true,
-      "memo": "少女之路"
-    },
-    {
-      "id": 82,
-      "raddr": "81.71.153.172",
-      "tmp_field_sel": true,
-      "memo": "﻿烟花三月#3"
-    },
-    {
-      "id": 96,
-      "raddr": "43.136.41.7",
-      "tmp_field_sel": true,
-      "memo": "﻿✘RPG✘送仙器"
-    },
-    {
-      "id": 100,
-      "raddr": "119.91.37.15",
-      "tmp_field_sel": true,
-      "memo": "﻿烟花三月#2"
-    },
-    {
-      "id": 103,
-      "raddr": "218.48.25.35",
-      "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG"
-    },
-    {
-      "id": 111,
-      "raddr": "119.91.22.138",
-      "tmp_field_sel": true,
-      "memo": "1# [天赋系统]螺旋升天爆杀坦克 经典怀旧服"
-    },
-    {
-      "id": 118,
-      "raddr": "43.136.57.180",
-      "tmp_field_sel": true,
-      "memo": "﻿五月病"
-    },
-    {
-      "id": 119,
-      "raddr": "43.248.185.161",
-      "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
-    },
-    {
-      "id": 120,
-      "raddr": "123.60.10.101",
-      "tmp_field_sel": true,
-      "memo": "﻿雪人组服"
-    },
-    {
-      "id": 121,
-      "raddr": "43.156.84.96",
-      "tmp_field_sel": true,
-      "memo": "﻿【CN】內鬼樂園"
-    },
-    {
-      "id": 132,
-      "raddr": "43.248.184.77",
-      "tmp_field_sel": true,
-      "memo": "5#無人永生RPG战役"
-    },
-    {
-      "id": 159,
-      "raddr": "61.160.213.219",
-      "tmp_field_sel": true,
-      "memo": "﻿暗黑之魂[RPG]#3"
-    },
-    {
-      "id": 1187,
-      "raddr": "110.177.144.113",
-      "tmp_field_sel": true,
-      "memo": "14人绝境求生 8服"
-    },
-    {
-      "id": 1188,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "﻿「天域」苍蓝娱乐服"
-    },
-    {
-      "id": 1189,
-      "raddr": "120.78.174.64",
-      "tmp_field_sel": true,
-      "memo": "﻿18#杀戮高手三方服"
-    },
-    {
-      "id": 1190,
       "raddr": "119.23.51.163",
       "tmp_field_sel": true,
       "memo": "﻿#78杀戮世界经典服"
     },
     {
-      "id": 1191,
-      "raddr": "120.77.24.39",
-      "tmp_field_sel": true,
-      "memo": "﻿#64杀戮世界菜鸟服"
-    },
-    {
-      "id": 1192,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X1橡子杀戮新手服"
-    },
-    {
-      "id": 1195,
-      "raddr": "119.23.140.3",
-      "tmp_field_sel": true,
-      "memo": "﻿X32橡子杀戮菜鸟服"
-    },
-    {
-      "id": 1198,
+      "id": 12,
       "raddr": "120.77.206.2",
       "tmp_field_sel": true,
-      "memo": "﻿98#杀戮世界经典服"
+      "memo": "﻿92#杀戮世界新手服"
     },
     {
-      "id": 1201,
+      "id": 13,
+      "raddr": "120.78.174.64",
+      "tmp_field_sel": true,
+      "memo": "﻿3#杀戮世界经典服"
+    },
+    {
+      "id": 16,
+      "raddr": "120.77.24.39",
+      "tmp_field_sel": true,
+      "memo": "﻿#61杀戮世界经典服"
+    },
+    {
+      "id": 22,
       "raddr": "120.79.5.0",
       "tmp_field_sel": true,
-      "memo": "﻿T58幻想杀戮经典服"
+      "memo": "﻿T54幻想杀戮新手服"
     },
     {
-      "id": 1205,
-      "raddr": "120.79.41.192",
+      "id": 26,
+      "raddr": "119.23.140.3",
       "tmp_field_sel": true,
-      "memo": "﻿T25幻想杀戮新手服"
+      "memo": "﻿X38橡子杀戮菜鸟服"
     },
     {
-      "id": 1207,
-      "raddr": "120.24.206.219",
+      "id": 54,
+      "raddr": "139.224.34.48",
       "tmp_field_sel": true,
-      "memo": "﻿40#杀戮世界经典服"
+      "memo": "TANK练习2服(30tick)"
     },
     {
-      "id": 1224,
-      "raddr": "120.24.67.55",
+      "id": 145,
+      "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "﻿T2幻想杀戮菜鸟服"
+      "memo": "[KR]XENON RPG 2"
     },
     {
-      "id": 1332,
-      "raddr": "1.34.32.32",
+      "id": 147,
+      "raddr": "124.221.139.51",
       "tmp_field_sel": true,
-      "memo": "louder0804寫實專家"
+      "memo": "【午夜狂欢】跑环服116#"
     },
     {
-      "id": 1368,
-      "raddr": "116.211.145.63",
+      "id": 148,
+      "raddr": "43.136.41.7",
       "tmp_field_sel": true,
-      "memo": "1#[白色]上帝之手"
+      "memo": "﻿✘RPG✘送仙器"
     },
     {
-      "id": 1378,
-      "raddr": "121.62.22.28",
+      "id": 151,
+      "raddr": "1.117.146.10",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】经典服务器23#"
+    },
+    {
+      "id": 153,
+      "raddr": "43.248.185.161",
+      "tmp_field_sel": true,
+      "memo": "﻿帝王RPG战役服[数据互通]"
+    },
+    {
+      "id": 155,
+      "raddr": "43.248.184.77",
+      "tmp_field_sel": true,
+      "memo": "3R無人永生RPG战役"
+    },
+    {
+      "id": 3142,
+      "raddr": "1.12.60.31",
       "tmp_field_sel": true,
       "memo": "﻿[趣味]-巅峰模式"
     },
     {
-      "id": 1385,
-      "raddr": "61.136.166.72",
+      "id": 6380,
+      "raddr": "114.132.252.231",
       "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
+      "memo": "﻿雄霸天下RPG"
     },
     {
-      "id": 1402,
-      "raddr": "171.115.223.112",
+      "id": 6382,
+      "raddr": "43.136.92.46",
       "tmp_field_sel": true,
-      "memo": "东海帝王药抗帝吓室 >>"
+      "memo": "^o^黑猫的愉快求生之路"
     },
     {
-      "id": 1423,
-      "raddr": "61.183.41.77",
+      "id": 6396,
+      "raddr": "175.178.96.5",
       "tmp_field_sel": true,
-      "memo": "﻿X1风花雪月RPG★新手服"
+      "memo": "少女之路"
     },
     {
-      "id": 1475,
-      "raddr": "175.183.32.58",
+      "id": 6397,
+      "raddr": "43.136.31.152",
       "tmp_field_sel": true,
-      "memo": "阿起世界 RPG 戰役"
+      "memo": "﻿#[RPG]紫荆之巅#"
     },
     {
-      "id": 1552,
-      "raddr": "150.242.98.50",
+      "id": 6399,
+      "raddr": "123.113.150.232",
       "tmp_field_sel": true,
-      "memo": "6♂[腐尸之地]RPG"
+      "memo": "﻿【CN】內鬼樂園"
     },
     {
-      "id": 1553,
-      "raddr": "150.242.98.39",
+      "id": 6437,
+      "raddr": "119.91.37.15",
       "tmp_field_sel": true,
-      "memo": "26♂[腐尸之地]RPG"
+      "memo": "﻿烟花三月#2"
     },
     {
-      "id": 1554,
-      "raddr": "43.242.73.119",
+      "id": 6438,
+      "raddr": "124.222.2.254",
       "tmp_field_sel": true,
-      "memo": "34♂[腐尸之地]RPG"
+      "memo": "永世乐土"
     },
     {
-      "id": 1556,
-      "raddr": "103.59.113.238",
+      "id": 6442,
+      "raddr": "43.143.77.230",
       "tmp_field_sel": true,
-      "memo": "15♂[腐尸之地]RPG"
+      "memo": "﻿白楠地"
     },
     {
-      "id": 1559,
-      "raddr": "125.77.172.193",
+      "id": 6470,
+      "raddr": "43.136.57.180",
       "tmp_field_sel": true,
-      "memo": "﻿AKB0048|第三方战役服务器"
+      "memo": "﻿五月病"
     },
     {
-      "id": 1586,
-      "raddr": "124.230.160.167",
+      "id": 6477,
+      "raddr": "101.43.47.116",
       "tmp_field_sel": true,
-      "memo": "暗星\n"
+      "memo": "CBRN沙雕大舞台"
+    },
+    {
+      "id": 6483,
+      "raddr": "81.70.96.146",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】多人战役120#"
+    },
+    {
+      "id": 6488,
+      "raddr": "101.33.227.27",
+      "tmp_field_sel": true,
+      "memo": "LS萌新服:1007476367"
+    },
+    {
+      "id": 6498,
+      "raddr": "81.71.153.172",
+      "tmp_field_sel": true,
+      "memo": "﻿烟花三月#3"
+    },
+    {
+      "id": 6504,
+      "raddr": "119.91.22.138",
+      "tmp_field_sel": true,
+      "memo": "1# [天赋系统]螺旋升天爆杀坦克 经典怀旧服"
+    },
+    {
+      "id": 6511,
+      "raddr": "43.249.194.250",
+      "tmp_field_sel": true,
+      "memo": "﻿「天域」苍蓝娱乐服"
+    },
+    {
+      "id": 6547,
+      "raddr": "123.60.10.101",
+      "tmp_field_sel": true,
+      "memo": "﻿雪人组服"
+    },
+    {
+      "id": 6548,
+      "raddr": "61.160.213.219",
+      "tmp_field_sel": true,
+      "memo": "﻿暗黑之魂[RPG]#4"
+    },
+    {
+      "id": 6556,
+      "raddr": "115.231.218.160",
+      "tmp_field_sel": true,
+      "memo": "♂[腐尸之地]♂RPG"
+    },
+    {
+      "id": 6773,
+      "raddr": "152.136.141.131",
+      "tmp_field_sel": true,
+      "memo": "放空思想"
+    },
+    {
+      "id": 6830,
+      "raddr": "101.33.201.33",
+      "tmp_field_sel": true,
+      "memo": "多人多特战役"
+    },
+    {
+      "id": 6835,
+      "raddr": "43.139.168.98",
+      "tmp_field_sel": true,
+      "memo": "42"
+    },
+    {
+      "id": 7696,
+      "raddr": "1.14.62.120",
+      "tmp_field_sel": true,
+      "memo": "﻿遗失世界"
     }
   ]
 }
