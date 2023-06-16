@@ -4,201 +4,21 @@
   "data": [
     {
       "id": 0,
-      "raddr": "1.12.60.31",
+      "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
-    },
-    {
-      "id": 1,
-      "raddr": "1.117.146.10",
-      "tmp_field_sel": true,
-      "memo": "【午夜狂欢】经典服务器23#"
+      "memo": "[KR]XENON RPG"
     },
     {
       "id": 2,
-      "raddr": "43.139.78.71",
-      "tmp_field_sel": true,
-      "memo": "医保多人多特"
-    },
-    {
-      "id": 6,
-      "raddr": "114.132.252.231",
-      "tmp_field_sel": true,
-      "memo": "﻿天下第一RPG"
-    },
-    {
-      "id": 7,
-      "raddr": "124.221.139.51",
-      "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役113#"
-    },
-    {
-      "id": 10,
-      "raddr": "43.139.168.98",
-      "tmp_field_sel": true,
-      "memo": "42"
-    },
-    {
-      "id": 12,
-      "raddr": "81.70.96.146",
-      "tmp_field_sel": true,
-      "memo": "【午夜狂欢】纯净三方服"
-    },
-    {
-      "id": 14,
-      "raddr": "43.136.31.152",
-      "tmp_field_sel": true,
-      "memo": "﻿#[RPG]紫荆之巅#"
-    },
-    {
-      "id": 19,
-      "raddr": "218.48.25.35",
-      "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG 2"
-    },
-    {
-      "id": 20,
-      "raddr": "123.60.10.101",
-      "tmp_field_sel": true,
-      "memo": "﻿雪人组服"
-    },
-    {
-      "id": 21,
-      "raddr": "139.224.34.48",
-      "tmp_field_sel": true,
-      "memo": "TANK练习1服(30tick)"
-    },
-    {
-      "id": 75,
-      "raddr": "43.136.41.7",
-      "tmp_field_sel": true,
-      "memo": "﻿✘RPG✘送千万金币"
-    },
-    {
-      "id": 83,
-      "raddr": "119.91.154.58",
-      "tmp_field_sel": true,
-      "memo": "﻿響喵的摸鱼纯净服1（非RPG）"
-    },
-    {
-      "id": 85,
-      "raddr": "119.91.22.138",
-      "tmp_field_sel": true,
-      "memo": "1# [天赋系统]螺旋升天爆杀坦克 经典怀旧服"
-    },
-    {
-      "id": 87,
-      "raddr": "132.232.109.48",
-      "tmp_field_sel": true,
-      "memo": "[FK]进阶包抗100tick#3"
-    },
-    {
-      "id": 88,
-      "raddr": "175.27.158.11",
-      "tmp_field_sel": true,
-      "memo": "﻿#无法逃脱RPG房#"
-    },
-    {
-      "id": 92,
-      "raddr": "123.207.202.114",
-      "tmp_field_sel": true,
-      "memo": "求生之路啥子竞赛"
-    },
-    {
-      "id": 105,
-      "raddr": "43.136.57.180",
-      "tmp_field_sel": true,
-      "memo": "﻿五月病"
-    },
-    {
-      "id": 111,
-      "raddr": "162.14.102.146",
-      "tmp_field_sel": true,
-      "memo": "星空下的娱乐多特"
-    },
-    {
-      "id": 113,
-      "raddr": "152.136.141.131",
-      "tmp_field_sel": true,
-      "memo": "放空思想"
-    },
-    {
-      "id": 117,
-      "raddr": "43.143.77.230",
-      "tmp_field_sel": true,
-      "memo": "﻿白楠地"
-    },
-    {
-      "id": 121,
-      "raddr": "43.136.92.46",
-      "tmp_field_sel": true,
-      "memo": "^o^黑猫的愉快求生之路"
-    },
-    {
-      "id": 122,
-      "raddr": "124.222.2.254",
-      "tmp_field_sel": true,
-      "memo": "永世乐土"
-    },
-    {
-      "id": 149,
-      "raddr": "1.14.62.120",
-      "tmp_field_sel": true,
-      "memo": "﻿遗失世界"
-    },
-    {
-      "id": 156,
-      "raddr": "82.156.39.135",
-      "tmp_field_sel": true,
-      "memo": "天空之城"
-    },
-    {
-      "id": 157,
-      "raddr": "123.113.150.220",
-      "tmp_field_sel": true,
-      "memo": "﻿【CN】內鬼乐园"
-    },
-    {
-      "id": 161,
-      "raddr": "175.178.73.118",
-      "tmp_field_sel": true,
-      "memo": "对抗服"
-    },
-    {
-      "id": 164,
-      "raddr": "81.71.153.172",
-      "tmp_field_sel": true,
-      "memo": "﻿烟花三月#3"
-    },
-    {
-      "id": 171,
-      "raddr": "101.33.201.33",
-      "tmp_field_sel": true,
-      "memo": "多人多特战役"
-    },
-    {
-      "id": 182,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "﻿「天域」苍蓝娱乐服"
-    },
-    {
-      "id": 183,
       "raddr": "43.248.185.161",
       "tmp_field_sel": true,
       "memo": "﻿帝王RPG战役服[数据互通]"
     },
     {
-      "id": 187,
+      "id": 12,
       "raddr": "43.248.184.77",
       "tmp_field_sel": true,
-      "memo": "3V無人永生RPG战役"
-    },
-    {
-      "id": 839,
-      "raddr": "119.91.37.15",
-      "tmp_field_sel": true,
-      "memo": "﻿烟花三月#2"
+      "memo": "4B無人永生RPG战役"
     }
   ]
 }
