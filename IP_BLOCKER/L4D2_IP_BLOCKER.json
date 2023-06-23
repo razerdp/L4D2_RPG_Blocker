@@ -4,9 +4,9 @@
   "data": [
     {
       "id": 0,
-      "raddr": "110.177.144.106",
+      "raddr": "153.36.232.39",
       "tmp_field_sel": true,
-      "memo": "14人绝境求生 8服"
+      "memo": "《破序》纯净"
     },
     {
       "id": 1,
@@ -15,82 +15,46 @@
       "memo": "﻿帝王RPG战役服[数据互通]"
     },
     {
-      "id": 9,
+      "id": 6,
       "raddr": "43.248.184.77",
       "tmp_field_sel": true,
-      "memo": "3S無人永生RPG战役"
+      "memo": "3V無人永生RPG战役"
     },
     {
-      "id": 454,
+      "id": 25,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG"
+      "memo": "[KR]XENON RPG 2"
     },
     {
-      "id": 456,
-      "raddr": "43.136.31.152",
-      "tmp_field_sel": true,
-      "memo": "﻿#[RPG]紫荆之巅#"
-    },
-    {
-      "id": 457,
+      "id": 27,
       "raddr": "1.117.146.10",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役125#"
+      "memo": "【午夜狂欢】经典服务器27#"
     },
     {
-      "id": 458,
-      "raddr": "124.221.139.51",
+      "id": 28,
+      "raddr": "101.33.201.33",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】跑环服116#"
+      "memo": "多人多特战役"
     },
     {
-      "id": 459,
-      "raddr": "162.14.102.146",
-      "tmp_field_sel": true,
-      "memo": "星空下的娱乐多特"
-    },
-    {
-      "id": 461,
-      "raddr": "123.207.202.114",
-      "tmp_field_sel": true,
-      "memo": "求生之路啥子竞赛"
-    },
-    {
-      "id": 462,
-      "raddr": "43.136.92.46",
-      "tmp_field_sel": true,
-      "memo": "^o^黑猫的愉快求生之路"
-    },
-    {
-      "id": 463,
-      "raddr": "114.132.252.231",
-      "tmp_field_sel": true,
-      "memo": "﻿天下第一RPG"
-    },
-    {
-      "id": 464,
-      "raddr": "152.136.162.231",
-      "tmp_field_sel": true,
-      "memo": "[FK]进阶包抗100tick#6"
-    },
-    {
-      "id": 466,
+      "id": 29,
       "raddr": "1.12.60.31",
       "tmp_field_sel": true,
       "memo": "﻿[趣味]-巅峰模式"
     },
     {
-      "id": 469,
-      "raddr": "1.34.32.32",
+      "id": 30,
+      "raddr": "123.207.202.114",
       "tmp_field_sel": true,
-      "memo": "louder0804寫實專家"
+      "memo": "求生之路啥子竞赛"
     },
     {
-      "id": 2857,
-      "raddr": "153.36.232.39",
+      "id": 31,
+      "raddr": "124.221.139.51",
       "tmp_field_sel": true,
-      "memo": "《破序》纯净"
+      "memo": "【午夜狂欢】多人战役105#"
     }
   ]
 }
