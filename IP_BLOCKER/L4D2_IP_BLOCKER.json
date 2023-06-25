@@ -4,87 +4,27 @@
   "data": [
     {
       "id": 0,
-      "raddr": "43.248.184.77",
-      "tmp_field_sel": true,
-      "memo": "3E無人永生RPG战役"
-    },
-    {
-      "id": 1,
-      "raddr": "43.248.185.161",
-      "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
-    },
-    {
-      "id": 897,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
       "memo": "[KR]XENON RPG 2"
     },
     {
-      "id": 899,
+      "id": 1,
       "raddr": "122.6.62.176",
       "tmp_field_sel": true,
       "memo": "经典纯净对抗"
     },
     {
-      "id": 900,
-      "raddr": "1.117.146.10",
+      "id": 2,
+      "raddr": "43.248.184.77",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】经典服务器27#"
+      "memo": "5#無人永生RPG战役"
     },
     {
-      "id": 901,
-      "raddr": "162.14.102.146",
+      "id": 3,
+      "raddr": "43.248.185.161",
       "tmp_field_sel": true,
-      "memo": "星空下的娱乐多特"
-    },
-    {
-      "id": 902,
-      "raddr": "124.221.139.51",
-      "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役115#"
-    },
-    {
-      "id": 903,
-      "raddr": "81.71.153.172",
-      "tmp_field_sel": true,
-      "memo": "﻿烟花三月#3"
-    },
-    {
-      "id": 904,
-      "raddr": "119.91.37.15",
-      "tmp_field_sel": true,
-      "memo": "﻿烟花三月#2"
-    },
-    {
-      "id": 905,
-      "raddr": "1.12.60.31",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
-    },
-    {
-      "id": 907,
-      "raddr": "123.207.202.114",
-      "tmp_field_sel": true,
-      "memo": "求生之路啥子竞赛"
-    },
-    {
-      "id": 908,
-      "raddr": "114.132.252.231",
-      "tmp_field_sel": true,
-      "memo": "﻿新手服[梦幻天堂]RPG"
-    },
-    {
-      "id": 912,
-      "raddr": "159.75.111.227",
-      "tmp_field_sel": true,
-      "memo": "多人战役"
-    },
-    {
-      "id": 914,
-      "raddr": "1.34.32.32",
-      "tmp_field_sel": true,
-      "memo": "louder0804寫實專家"
+      "memo": "﻿帝王RPG战役服[数据互通]"
     }
   ]
 }
