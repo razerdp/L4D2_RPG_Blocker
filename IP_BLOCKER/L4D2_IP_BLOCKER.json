@@ -16,51 +16,21 @@
     },
     {
       "id": 3,
-      "raddr": "43.248.185.161",
+      "raddr": "43.249.194.250",
       "tmp_field_sel": true,
-      "memo": "﻿5#帝王RPG战役服[数据互通]"
+      "memo": "﻿「天域」苍蓝娱乐服"
     },
     {
       "id": 4,
-      "raddr": "43.248.184.77",
-      "tmp_field_sel": true,
-      "memo": "3V無人永生RPG战役"
-    },
-    {
-      "id": 6,
       "raddr": "123.60.10.101",
       "tmp_field_sel": true,
       "memo": "﻿雪人组服"
     },
     {
-      "id": 7,
-      "raddr": "103.219.39.169",
-      "tmp_field_sel": true,
-      "memo": "空空如也"
-    },
-    {
-      "id": 8,
-      "raddr": "115.231.218.160",
-      "tmp_field_sel": true,
-      "memo": "❶❾[腐尸之地]♂RPG"
-    },
-    {
-      "id": 34,
+      "id": 5,
       "raddr": "1.34.32.32",
       "tmp_field_sel": true,
       "memo": "louder0804寫實專家"
-    },
-    {
-      "id": 334,
-      "raddr": "61.160.213.219",
-      "tmp_field_sel": true,
-      "memo": "﻿暗黑之魂[RPG]#4"
-    },
-    {
-      "id": 1200,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "﻿「天域」苍蓝娱乐服"
     }
   ]
 }
