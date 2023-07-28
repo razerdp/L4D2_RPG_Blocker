@@ -6,55 +6,37 @@
       "id": 0,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG 2"
+      "memo": "[KR]XENON RPG"
     },
     {
       "id": 2,
-      "raddr": "222.186.42.204",
-      "tmp_field_sel": true,
-      "memo": "﻿暗黑之魂[RPG]#3"
-    },
-    {
-      "id": 10,
-      "raddr": "121.62.22.28",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
-    },
-    {
-      "id": 11,
       "raddr": "121.62.23.126",
       "tmp_field_sel": true,
       "memo": "﻿[趣味]-巅峰模式"
     },
     {
-      "id": 14,
+      "id": 4,
       "raddr": "61.136.166.72",
       "tmp_field_sel": true,
       "memo": "﻿[趣味]-巅峰模式"
     },
     {
-      "id": 70,
-      "raddr": "43.156.84.96",
+      "id": 5,
+      "raddr": "121.62.22.28",
       "tmp_field_sel": true,
-      "memo": "﻿【CN】內鬼樂園"
+      "memo": "﻿[趣味]-巅峰模式"
     },
     {
-      "id": 133,
+      "id": 51,
       "raddr": "61.183.41.77",
       "tmp_field_sel": true,
       "memo": "[AC]X2风花雪月RPG★新手服"
     },
     {
-      "id": 148,
+      "id": 7976,
       "raddr": "171.115.223.112",
       "tmp_field_sel": true,
       "memo": "东海帝王药抗帝吓室 >>"
-    },
-    {
-      "id": 182,
-      "raddr": "111.180.188.101",
-      "tmp_field_sel": true,
-      "memo": "东海帝王药抗帝下室 >>"
     }
   ]
 }
