@@ -6,34 +6,34 @@
       "id": 0,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG 2"
+      "memo": "[KR]XENON RPG"
     },
     {
       "id": 2,
+      "raddr": "43.248.185.161",
+      "tmp_field_sel": true,
+      "memo": "﻿4#帝王RPG战役服[数据互通]"
+    },
+    {
+      "id": 3,
       "raddr": "43.248.184.77",
       "tmp_field_sel": true,
-      "memo": "3D無人永生RPG战役"
+      "memo": "3V無人永生RPG战役"
     },
     {
       "id": 5,
-      "raddr": "43.248.185.161",
-      "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
-    },
-    {
-      "id": 7,
-      "raddr": "43.248.185.10",
-      "tmp_field_sel": true,
-      "memo": "[CN]野生牢房"
-    },
-    {
-      "id": 18,
       "raddr": "103.239.245.252",
       "tmp_field_sel": true,
       "memo": "东海帝王色图药役 >>"
     },
     {
-      "id": 700,
+      "id": 102,
+      "raddr": "43.248.185.10",
+      "tmp_field_sel": true,
+      "memo": "[CN]野生牢房"
+    },
+    {
+      "id": 1939,
       "raddr": "120.224.233.250",
       "tmp_field_sel": true,
       "memo": "[KAZE Lv10]纯净1服[当前48%]"
