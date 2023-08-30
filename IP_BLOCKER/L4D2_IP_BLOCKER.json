@@ -10,255 +10,63 @@
     },
     {
       "id": 1,
-      "raddr": "120.78.174.64",
+      "raddr": "43.248.184.77",
       "tmp_field_sel": true,
-      "memo": "﻿16#杀戮世界高手服"
+      "memo": "3F無人永生RPG战役"
     },
     {
       "id": 2,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿30#杀戮世界经典服"
-    },
-    {
-      "id": 3,
-      "raddr": "120.77.24.39",
-      "tmp_field_sel": true,
-      "memo": "﻿#62杀戮世界新手服"
-    },
-    {
-      "id": 5,
-      "raddr": "120.77.206.2",
-      "tmp_field_sel": true,
-      "memo": "﻿45#杀戮世界菜鸟服"
-    },
-    {
-      "id": 12,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T48幻想杀戮新手服"
-    },
-    {
-      "id": 181,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "﻿「天域国度」超难战役"
-    },
-    {
-      "id": 182,
-      "raddr": "222.186.42.204",
-      "tmp_field_sel": true,
-      "memo": "﻿暗黑之魂[RPG]#5"
-    },
-    {
-      "id": 219,
-      "raddr": "103.239.245.252",
-      "tmp_field_sel": true,
-      "memo": "东海帝王色图药役 >>"
-    },
-    {
-      "id": 220,
       "raddr": "43.248.185.161",
       "tmp_field_sel": true,
-      "memo": "﻿3#帝王RPG战役服[数据互通]"
+      "memo": "﻿7#帝王RPG战役服[数据互通]"
     },
     {
-      "id": 221,
-      "raddr": "43.248.184.77",
+      "id": 24,
+      "raddr": "43.156.84.96",
       "tmp_field_sel": true,
-      "memo": "3R無人永生RPG战役"
+      "memo": "﻿【CN】內鬼樂園"
     },
     {
-      "id": 222,
-      "raddr": "124.221.139.51",
-      "tmp_field_sel": true,
-      "memo": "【午夜狂欢】挂机服"
-    },
-    {
-      "id": 223,
-      "raddr": "1.12.60.31",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
-    },
-    {
-      "id": 226,
-      "raddr": "1.117.146.10",
-      "tmp_field_sel": true,
-      "memo": "【午夜狂欢】经典服务器23#"
-    },
-    {
-      "id": 232,
-      "raddr": "81.70.96.146",
-      "tmp_field_sel": true,
-      "memo": "【午夜狂欢】纯净三方服"
-    },
-    {
-      "id": 233,
-      "raddr": "124.221.144.2",
-      "tmp_field_sel": true,
-      "memo": "纯净四人1"
-    },
-    {
-      "id": 236,
-      "raddr": "114.132.252.231",
-      "tmp_field_sel": true,
-      "memo": "﻿天下第一RPG"
-    },
-    {
-      "id": 237,
-      "raddr": "43.136.31.152",
-      "tmp_field_sel": true,
-      "memo": "﻿#[RPG]紫荆之巅#"
-    },
-    {
-      "id": 261,
+      "id": 70,
       "raddr": "43.248.185.10",
       "tmp_field_sel": true,
       "memo": "[CN]野生牢房"
     },
     {
-      "id": 1427,
-      "raddr": "175.27.158.11",
+      "id": 583,
+      "raddr": "103.239.245.252",
       "tmp_field_sel": true,
-      "memo": "﻿#无法逃脱RPG房#"
+      "memo": "东海帝王色图药役 >>"
     },
     {
-      "id": 1434,
-      "raddr": "43.138.237.21",
+      "id": 591,
+      "raddr": "120.79.5.0",
       "tmp_field_sel": true,
-      "memo": "在原七海的治愈之风~#2"
+      "memo": "﻿T59幻想杀戮经典服"
     },
     {
-      "id": 1438,
-      "raddr": "111.230.98.33",
+      "id": 592,
+      "raddr": "120.78.174.64",
       "tmp_field_sel": true,
-      "memo": "﻿K佬的[绝境28]"
+      "memo": "﻿16#杀戮世界高手服"
     },
     {
-      "id": 1439,
-      "raddr": "123.207.78.102",
+      "id": 593,
+      "raddr": "120.77.24.39",
       "tmp_field_sel": true,
-      "memo": "﻿珏珏子"
+      "memo": "﻿#65杀戮世界菜鸟服"
     },
     {
-      "id": 1442,
-      "raddr": "123.207.50.18",
+      "id": 595,
+      "raddr": "120.77.206.2",
       "tmp_field_sel": true,
-      "memo": "﻿【CN】纯净多特"
+      "memo": "﻿96#杀戮世界菜鸟服"
     },
     {
-      "id": 1446,
-      "raddr": "159.75.111.227",
+      "id": 597,
+      "raddr": "120.79.41.192",
       "tmp_field_sel": true,
-      "memo": "生存之旅2"
-    },
-    {
-      "id": 1456,
-      "raddr": "123.207.202.114",
-      "tmp_field_sel": true,
-      "memo": "求生之路啥子竞赛"
-    },
-    {
-      "id": 1465,
-      "raddr": "139.155.146.198",
-      "tmp_field_sel": true,
-      "memo": "[FK]进阶包抗100tick#2"
-    },
-    {
-      "id": 1471,
-      "raddr": "43.136.41.7",
-      "tmp_field_sel": true,
-      "memo": "萌新服"
-    },
-    {
-      "id": 1485,
-      "raddr": "119.91.22.138",
-      "tmp_field_sel": true,
-      "memo": "1# [天赋系统]螺旋升天爆杀坦克 经典怀旧服"
-    },
-    {
-      "id": 1487,
-      "raddr": "43.136.57.180",
-      "tmp_field_sel": true,
-      "memo": "﻿五月病"
-    },
-    {
-      "id": 1498,
-      "raddr": "1.14.62.120",
-      "tmp_field_sel": true,
-      "memo": "﻿遗失世界"
-    },
-    {
-      "id": 1500,
-      "raddr": "116.196.75.73",
-      "tmp_field_sel": true,
-      "memo": "﻿4人战役"
-    },
-    {
-      "id": 1504,
-      "raddr": "124.222.2.254",
-      "tmp_field_sel": true,
-      "memo": "永世乐土"
-    },
-    {
-      "id": 1505,
-      "raddr": "43.143.77.230",
-      "tmp_field_sel": true,
-      "memo": "﻿白楠地"
-    },
-    {
-      "id": 1526,
-      "raddr": "115.231.218.160",
-      "tmp_field_sel": true,
-      "memo": "❶❺[腐尸之地]♂RPG"
-    },
-    {
-      "id": 1555,
-      "raddr": "116.211.145.63",
-      "tmp_field_sel": true,
-      "memo": "1#[白色]上帝之手"
-    },
-    {
-      "id": 1563,
-      "raddr": "117.35.255.71",
-      "tmp_field_sel": true,
-      "memo": "﻿【CN】內鬼乐园"
-    },
-    {
-      "id": 1565,
-      "raddr": "1.70.35.220",
-      "tmp_field_sel": true,
-      "memo": "14人绝境求生 8服"
-    },
-    {
-      "id": 1566,
-      "raddr": "61.136.166.72",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
-    },
-    {
-      "id": 1567,
-      "raddr": "121.62.23.126",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
-    },
-    {
-      "id": 1570,
-      "raddr": "121.62.22.28",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
-    },
-    {
-      "id": 1632,
-      "raddr": "61.183.41.77",
-      "tmp_field_sel": true,
-      "memo": "[AC]X3风花雪月RPG★新手服"
-    },
-    {
-      "id": 2171,
-      "raddr": "120.224.233.250",
-      "tmp_field_sel": true,
-      "memo": "[KAZE Lv10]纯净4服[当前28%]"
+      "memo": "﻿T30幻想杀戮经典服"
     }
   ]
 }
