@@ -6,67 +6,43 @@
       "id": 0,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG"
-    },
-    {
-      "id": 1,
-      "raddr": "43.248.184.77",
-      "tmp_field_sel": true,
-      "memo": "3F無人永生RPG战役"
+      "memo": "[KR]XENON RPG 2"
     },
     {
       "id": 2,
       "raddr": "43.248.185.161",
       "tmp_field_sel": true,
-      "memo": "﻿7#帝王RPG战役服[数据互通]"
+      "memo": "﻿帝王RPG战役服[数据互通]"
     },
     {
-      "id": 24,
+      "id": 4,
+      "raddr": "43.248.184.77",
+      "tmp_field_sel": true,
+      "memo": "3F無人永生RPG战役"
+    },
+    {
+      "id": 18,
+      "raddr": "36.232.32.94",
+      "tmp_field_sel": true,
+      "memo": "阿起世界 RPG 戰役"
+    },
+    {
+      "id": 19,
       "raddr": "43.156.84.96",
       "tmp_field_sel": true,
       "memo": "﻿【CN】內鬼樂園"
     },
     {
-      "id": 70,
+      "id": 76,
       "raddr": "43.248.185.10",
       "tmp_field_sel": true,
       "memo": "[CN]野生牢房"
     },
     {
-      "id": 583,
+      "id": 582,
       "raddr": "103.239.245.252",
       "tmp_field_sel": true,
       "memo": "东海帝王色图药役 >>"
-    },
-    {
-      "id": 591,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T59幻想杀戮经典服"
-    },
-    {
-      "id": 592,
-      "raddr": "120.78.174.64",
-      "tmp_field_sel": true,
-      "memo": "﻿16#杀戮世界高手服"
-    },
-    {
-      "id": 593,
-      "raddr": "120.77.24.39",
-      "tmp_field_sel": true,
-      "memo": "﻿#65杀戮世界菜鸟服"
-    },
-    {
-      "id": 595,
-      "raddr": "120.77.206.2",
-      "tmp_field_sel": true,
-      "memo": "﻿96#杀戮世界菜鸟服"
-    },
-    {
-      "id": 597,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿T30幻想杀戮经典服"
     }
   ]
 }
