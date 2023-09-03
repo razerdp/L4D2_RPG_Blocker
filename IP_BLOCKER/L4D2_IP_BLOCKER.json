@@ -10,21 +10,27 @@
     },
     {
       "id": 2,
-      "raddr": "43.248.185.161",
-      "tmp_field_sel": true,
-      "memo": "﻿1#帝王RPG战役服[数据互通]"
-    },
-    {
-      "id": 4,
       "raddr": "43.248.184.77",
       "tmp_field_sel": true,
-      "memo": "4B無人永生RPG战役"
+      "memo": "3R無人永生RPG战役"
     },
     {
-      "id": 8,
-      "raddr": "103.239.244.126",
+      "id": 5,
+      "raddr": "43.248.185.161",
       "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
+      "memo": "﻿3#帝王RPG战役服[数据互通]"
+    },
+    {
+      "id": 11,
+      "raddr": "103.239.245.252",
+      "tmp_field_sel": true,
+      "memo": "东海帝王色图药役 >>"
+    },
+    {
+      "id": 13,
+      "raddr": "36.232.32.94",
+      "tmp_field_sel": true,
+      "memo": "阿起世界 RPG 戰役"
     },
     {
       "id": 14,
@@ -34,69 +40,9 @@
     },
     {
       "id": 15,
-      "raddr": "36.232.32.94",
-      "tmp_field_sel": true,
-      "memo": "阿起世界 RPG 戰役"
-    },
-    {
-      "id": 16,
       "raddr": "43.156.84.96",
       "tmp_field_sel": true,
       "memo": "﻿【CN】內鬼樂園"
-    },
-    {
-      "id": 103,
-      "raddr": "103.239.245.252",
-      "tmp_field_sel": true,
-      "memo": "东海帝王色图药役 >>"
-    },
-    {
-      "id": 119,
-      "raddr": "43.248.186.87",
-      "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
-    },
-    {
-      "id": 151,
-      "raddr": "120.224.233.250",
-      "tmp_field_sel": true,
-      "memo": "[KAZE Lv10]纯净2服[当前48%]"
-    },
-    {
-      "id": 234,
-      "raddr": "103.239.244.102",
-      "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
-    },
-    {
-      "id": 846,
-      "raddr": "150.138.77.51",
-      "tmp_field_sel": true,
-      "memo": "[AC]X62纯净RPG★正常服"
-    },
-    {
-      "id": 970,
-      "raddr": "103.239.244.123",
-      "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
-    },
-    {
-      "id": 1042,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "【CN】「天域国度」弑神巅峰之无人永生"
-    },
-    {
-      "id": 1505,
-      "raddr": "103.239.244.118",
-      "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
-    },
-    {
-      "id": 2288,
-      "raddr": "103.239.244.124",
-      "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
     }
   ]
 }
