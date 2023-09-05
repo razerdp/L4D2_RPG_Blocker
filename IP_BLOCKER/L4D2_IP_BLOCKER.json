@@ -12,109 +12,67 @@
       "id": 2,
       "raddr": "43.248.185.161",
       "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
+      "memo": "﻿3#帝王RPG战役服[数据互通]"
     },
     {
-      "id": 4,
+      "id": 3,
       "raddr": "43.248.184.77",
       "tmp_field_sel": true,
-      "memo": "5#無人永生RPG战役"
+      "memo": "3S無人永生RPG战役"
     },
     {
-      "id": 11,
-      "raddr": "103.239.244.122",
+      "id": 5,
+      "raddr": "103.239.245.60",
       "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
+      "memo": "星云天空药抗会所 | "
     },
     {
-      "id": 20,
-      "raddr": "1.34.32.32",
-      "tmp_field_sel": true,
-      "memo": "louder0804寫實專家"
-    },
-    {
-      "id": 21,
-      "raddr": "43.156.84.96",
-      "tmp_field_sel": true,
-      "memo": "﻿【CN】內鬼樂園"
-    },
-    {
-      "id": 93,
-      "raddr": "103.239.245.252",
-      "tmp_field_sel": true,
-      "memo": "东海帝王色图药役 >>"
-    },
-    {
-      "id": 103,
+      "id": 18,
       "raddr": "43.248.185.10",
       "tmp_field_sel": true,
       "memo": "[CN]野生牢房"
     },
     {
-      "id": 104,
-      "raddr": "120.78.174.64",
+      "id": 20,
+      "raddr": "103.239.244.118",
       "tmp_field_sel": true,
-      "memo": "﻿7#杀戮世界菜鸟服"
+      "memo": "打工人の求生小屋"
     },
     {
-      "id": 105,
-      "raddr": "120.77.24.39",
+      "id": 22,
+      "raddr": "1.34.32.32",
       "tmp_field_sel": true,
-      "memo": "﻿#52杀戮世界新手服"
+      "memo": "louder0804寫實專家"
     },
     {
-      "id": 106,
-      "raddr": "120.79.5.0",
+      "id": 23,
+      "raddr": "43.156.84.96",
       "tmp_field_sel": true,
-      "memo": "﻿#51幻想杀戮经典服"
+      "memo": "﻿【CN】內鬼樂園"
     },
     {
-      "id": 108,
-      "raddr": "120.77.206.2",
+      "id": 1247,
+      "raddr": "103.239.245.252",
       "tmp_field_sel": true,
-      "memo": "﻿93#杀戮世界新手服"
+      "memo": "东海帝王色图药役 >>"
     },
     {
-      "id": 111,
-      "raddr": "120.79.41.192",
+      "id": 2783,
+      "raddr": "103.239.244.117",
       "tmp_field_sel": true,
-      "memo": "﻿30#杀戮世界经典服"
+      "memo": "打工人の求生小屋"
     },
     {
-      "id": 118,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X9橡子杀戮经典服"
-    },
-    {
-      "id": 199,
-      "raddr": "115.231.218.160",
-      "tmp_field_sel": true,
-      "memo": "❶❽[腐尸之地]♂RPG"
-    },
-    {
-      "id": 228,
-      "raddr": "36.232.4.236",
-      "tmp_field_sel": true,
-      "memo": "阿起世界 RPG 戰役"
-    },
-    {
-      "id": 229,
-      "raddr": "150.138.77.51",
-      "tmp_field_sel": true,
-      "memo": "[AC]X103纯净RPG★正常服"
-    },
-    {
-      "id": 234,
+      "id": 3634,
       "raddr": "43.249.194.250",
       "tmp_field_sel": true,
-      "memo": "「天域国度」多特娱乐服#4"
+      "memo": "「天域国度」多特娱乐服#2"
     },
     {
-      "id": 244,
-      "raddr": "222.186.42.204",
+      "id": 3636,
+      "raddr": "150.138.77.51",
       "tmp_field_sel": true,
-      "memo": "﻿暗黑之魂[RPG]#3"
+      "memo": "[AC]X226纯净RPG★正常服"
     }
   ]
 }
