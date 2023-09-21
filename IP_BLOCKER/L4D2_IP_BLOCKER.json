@@ -16,75 +16,57 @@
     },
     {
       "id": 3,
-      "raddr": "43.248.185.161",
+      "raddr": "150.138.77.51",
       "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
+      "memo": "[AC]X210纯净RPG★正常服"
     },
     {
-      "id": 8,
-      "raddr": "43.248.184.77",
+      "id": 18,
+      "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "3R無人永生RPG战役"
+      "memo": "[AC]X24纯净RPG★正常服"
     },
     {
-      "id": 12,
-      "raddr": "43.248.185.10",
+      "id": 19,
+      "raddr": "43.249.194.250",
       "tmp_field_sel": true,
-      "memo": "[CN]野生牢房"
+      "memo": "「天域国度」多特娱乐服#1"
     },
     {
-      "id": 23,
-      "raddr": "180.117.176.24",
-      "tmp_field_sel": true,
-      "memo": "L4D2|CN-2"
-    },
-    {
-      "id": 24,
-      "raddr": "49.64.135.80",
-      "tmp_field_sel": true,
-      "memo": "L4D2|CN-1"
-    },
-    {
-      "id": 25,
-      "raddr": "222.186.42.204",
-      "tmp_field_sel": true,
-      "memo": "﻿暗黑之魂[RPG]#1"
-    },
-    {
-      "id": 33,
-      "raddr": "36.232.14.113",
-      "tmp_field_sel": true,
-      "memo": "阿起世界 RPG 戰役"
-    },
-    {
-      "id": 34,
-      "raddr": "43.156.84.96",
-      "tmp_field_sel": true,
-      "memo": "﻿【CN】內鬼樂園"
-    },
-    {
-      "id": 1760,
+      "id": 22,
       "raddr": "49.64.134.141",
       "tmp_field_sel": true,
       "memo": "L4D2|CN-2"
     },
     {
-      "id": 1894,
+      "id": 23,
       "raddr": "49.64.134.185",
       "tmp_field_sel": true,
       "memo": "L4D2|CN-1"
     },
     {
-      "id": 3116,
-      "raddr": "43.248.186.87",
+      "id": 24,
+      "raddr": "36.232.0.3",
       "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
+      "memo": "阿起世界 RPG 戰役"
     },
     {
-      "id": 3147,
-      "raddr": "221.181.185.22",
+      "id": 25,
+      "raddr": "43.156.84.96",
       "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
+      "memo": "﻿【CN】內鬼樂園"
+    },
+    {
+      "id": 1335,
+      "raddr": "49.64.135.80",
+      "tmp_field_sel": true,
+      "memo": "L4D2|CN-2"
+    },
+    {
+      "id": 2760,
+      "raddr": "180.117.176.24",
+      "tmp_field_sel": true,
+      "memo": "L4D2|CN-2"
     }
   ]
 }
