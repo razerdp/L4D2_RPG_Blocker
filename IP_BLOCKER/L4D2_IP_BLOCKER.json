@@ -6,7 +6,7 @@
       "id": 0,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG"
+      "memo": "[KR]XENON RPG 2"
     },
     {
       "id": 2,
@@ -16,55 +16,259 @@
     },
     {
       "id": 3,
-      "raddr": "150.138.77.51",
+      "raddr": "43.249.194.250",
       "tmp_field_sel": true,
-      "memo": "[AC]X210纯净RPG★正常服"
+      "memo": "「天域国度」多特娱乐服#4"
     },
     {
-      "id": 18,
+      "id": 5,
+      "raddr": "150.138.77.51",
+      "tmp_field_sel": true,
+      "memo": "[AC]X30纯净RPG★正常服"
+    },
+    {
+      "id": 8,
       "raddr": "150.138.77.10",
       "tmp_field_sel": true,
       "memo": "[AC]X24纯净RPG★正常服"
     },
     {
-      "id": 19,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "「天域国度」多特娱乐服#1"
-    },
-    {
-      "id": 22,
-      "raddr": "49.64.134.141",
-      "tmp_field_sel": true,
-      "memo": "L4D2|CN-2"
-    },
-    {
-      "id": 23,
-      "raddr": "49.64.134.185",
-      "tmp_field_sel": true,
-      "memo": "L4D2|CN-1"
-    },
-    {
-      "id": 24,
+      "id": 16,
       "raddr": "36.232.0.3",
       "tmp_field_sel": true,
       "memo": "阿起世界 RPG 戰役"
     },
     {
-      "id": 25,
+      "id": 17,
       "raddr": "43.156.84.96",
       "tmp_field_sel": true,
       "memo": "﻿【CN】內鬼樂園"
     },
     {
-      "id": 1335,
-      "raddr": "49.64.135.80",
+      "id": 1259,
+      "raddr": "123.207.78.102",
       "tmp_field_sel": true,
-      "memo": "L4D2|CN-2"
+      "memo": "﻿珏珏子"
     },
     {
-      "id": 2760,
-      "raddr": "180.117.176.24",
+      "id": 1260,
+      "raddr": "1.12.60.31",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-巅峰模式"
+    },
+    {
+      "id": 1261,
+      "raddr": "139.155.146.198",
+      "tmp_field_sel": true,
+      "memo": "[FK]进阶包抗100tick#2"
+    },
+    {
+      "id": 1262,
+      "raddr": "1.117.146.10",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】多人战役124#"
+    },
+    {
+      "id": 1264,
+      "raddr": "1.14.62.120",
+      "tmp_field_sel": true,
+      "memo": "﻿遗失世界"
+    },
+    {
+      "id": 1411,
+      "raddr": "114.217.157.237",
+      "tmp_field_sel": true,
+      "memo": "L4D2|CN-1"
+    },
+    {
+      "id": 1557,
+      "raddr": "120.224.134.12",
+      "tmp_field_sel": true,
+      "memo": "[KAZE Lv10]纯净4服[当前78%]"
+    },
+    {
+      "id": 2045,
+      "raddr": "124.221.139.51",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】5倍经验金币服100#"
+    },
+    {
+      "id": 2047,
+      "raddr": "124.222.53.237",
+      "tmp_field_sel": true,
+      "memo": "风花雪月战役[6特16s]"
+    },
+    {
+      "id": 2048,
+      "raddr": "43.136.31.152",
+      "tmp_field_sel": true,
+      "memo": "﻿#[RPG]紫荆之巅#"
+    },
+    {
+      "id": 2050,
+      "raddr": "175.27.158.11",
+      "tmp_field_sel": true,
+      "memo": "﻿#无法逃脱RPG房#"
+    },
+    {
+      "id": 2174,
+      "raddr": "114.217.110.5",
+      "tmp_field_sel": true,
+      "memo": "L4D2|CN-1"
+    },
+    {
+      "id": 2176,
+      "raddr": "114.132.252.231",
+      "tmp_field_sel": true,
+      "memo": "﻿修仙大佬RPG"
+    },
+    {
+      "id": 2178,
+      "raddr": "123.207.50.18",
+      "tmp_field_sel": true,
+      "memo": "﻿【CN】纯净多特"
+    },
+    {
+      "id": 2179,
+      "raddr": "43.136.41.7",
+      "tmp_field_sel": true,
+      "memo": "﻿公益RPG×十倍奖励"
+    },
+    {
+      "id": 2188,
+      "raddr": "111.230.81.72",
+      "tmp_field_sel": true,
+      "memo": "素质8人8特"
+    },
+    {
+      "id": 2195,
+      "raddr": "43.138.237.21",
+      "tmp_field_sel": true,
+      "memo": "在原七海的治愈之风~#2"
+    },
+    {
+      "id": 2200,
+      "raddr": "81.70.96.146",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】多人战役118#"
+    },
+    {
+      "id": 2205,
+      "raddr": "116.196.75.73",
+      "tmp_field_sel": true,
+      "memo": "4人战役"
+    },
+    {
+      "id": 2210,
+      "raddr": "159.75.111.227",
+      "tmp_field_sel": true,
+      "memo": "生存之旅2"
+    },
+    {
+      "id": 2226,
+      "raddr": "111.230.98.33",
+      "tmp_field_sel": true,
+      "memo": "﻿K佬的[绝境28]"
+    },
+    {
+      "id": 2229,
+      "raddr": "175.178.96.5",
+      "tmp_field_sel": true,
+      "memo": "少女之路"
+    },
+    {
+      "id": 2231,
+      "raddr": "123.207.202.114",
+      "tmp_field_sel": true,
+      "memo": "求生之路啥子竞赛"
+    },
+    {
+      "id": 2245,
+      "raddr": "43.143.77.230",
+      "tmp_field_sel": true,
+      "memo": "﻿白楠地"
+    },
+    {
+      "id": 2247,
+      "raddr": "119.91.22.138",
+      "tmp_field_sel": true,
+      "memo": "1# [天赋系统]螺旋升天爆杀坦克 经典怀旧服"
+    },
+    {
+      "id": 2259,
+      "raddr": "81.71.153.172",
+      "tmp_field_sel": true,
+      "memo": "﻿烟花三月#3"
+    },
+    {
+      "id": 2263,
+      "raddr": "43.136.57.180",
+      "tmp_field_sel": true,
+      "memo": "﻿五月病"
+    },
+    {
+      "id": 2273,
+      "raddr": "124.222.2.254",
+      "tmp_field_sel": true,
+      "memo": "永世乐土"
+    },
+    {
+      "id": 2286,
+      "raddr": "117.35.251.63",
+      "tmp_field_sel": true,
+      "memo": "﻿【CN】內鬼乐园"
+    },
+    {
+      "id": 2287,
+      "raddr": "1.70.32.2",
+      "tmp_field_sel": true,
+      "memo": "14人绝境求生 8服"
+    },
+    {
+      "id": 2288,
+      "raddr": "43.248.185.161",
+      "tmp_field_sel": true,
+      "memo": "﻿10#帝王RPG战役服[数据互通]"
+    },
+    {
+      "id": 2290,
+      "raddr": "43.248.184.77",
+      "tmp_field_sel": true,
+      "memo": "4B無人永生RPG战役"
+    },
+    {
+      "id": 2307,
+      "raddr": "43.248.185.10",
+      "tmp_field_sel": true,
+      "memo": "[CN]野生牢房"
+    },
+    {
+      "id": 2317,
+      "raddr": "222.187.222.58",
+      "tmp_field_sel": true,
+      "memo": "打工人の求生小屋"
+    },
+    {
+      "id": 2318,
+      "raddr": "121.62.22.28",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-巅峰模式"
+    },
+    {
+      "id": 2319,
+      "raddr": "121.62.23.77",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-巅峰模式"
+    },
+    {
+      "id": 2320,
+      "raddr": "61.136.166.72",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-巅峰模式"
+    },
+    {
+      "id": 3521,
+      "raddr": "49.64.132.249",
       "tmp_field_sel": true,
       "memo": "L4D2|CN-2"
     }
