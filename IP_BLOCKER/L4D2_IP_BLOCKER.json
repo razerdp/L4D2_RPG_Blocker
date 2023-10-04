@@ -6,139 +6,67 @@
       "id": 0,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG 2"
-    },
-    {
-      "id": 1,
-      "raddr": "120.224.233.249",
-      "tmp_field_sel": true,
-      "memo": "饼干纯净服[CN]"
+      "memo": "[KR]XENON RPG"
     },
     {
       "id": 2,
+      "raddr": "150.138.77.10",
+      "tmp_field_sel": true,
+      "memo": "[AC]X13纯净RPG★正常服"
+    },
+    {
+      "id": 8,
+      "raddr": "43.249.194.250",
+      "tmp_field_sel": true,
+      "memo": "「天域国度」多特娱乐服#3"
+    },
+    {
+      "id": 29,
       "raddr": "124.70.223.124",
       "tmp_field_sel": true,
       "memo": "多人多特"
     },
     {
-      "id": 3,
-      "raddr": "49.64.135.89",
+      "id": 30,
+      "raddr": "120.78.174.64",
       "tmp_field_sel": true,
-      "memo": "L4D2|CN-1"
+      "memo": "﻿19#杀戮世界刷怪服"
     },
     {
-      "id": 5,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T46幻想杀戮经典服"
-    },
-    {
-      "id": 6,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X13橡子杀戮新手服"
-    },
-    {
-      "id": 7,
+      "id": 31,
       "raddr": "120.77.24.39",
       "tmp_field_sel": true,
-      "memo": "﻿#65杀戮世界菜鸟服"
+      "memo": "﻿#68杀戮世界经典服"
     },
     {
-      "id": 8,
+      "id": 33,
+      "raddr": "120.77.206.2",
+      "tmp_field_sel": true,
+      "memo": "﻿92#杀戮世界新手服"
+    },
+    {
+      "id": 34,
+      "raddr": "120.79.41.192",
+      "tmp_field_sel": true,
+      "memo": "﻿21#杀戮世界新手服"
+    },
+    {
+      "id": 49,
+      "raddr": "120.79.5.0",
+      "tmp_field_sel": true,
+      "memo": "﻿T53幻想杀戮新手服"
+    },
+    {
+      "id": 96,
+      "raddr": "120.79.5.148",
+      "tmp_field_sel": true,
+      "memo": "﻿X20橡子杀戮经典服"
+    },
+    {
+      "id": 3418,
       "raddr": "112.124.53.150",
       "tmp_field_sel": true,
       "memo": "﻿【完美世界】RPG玖服"
-    },
-    {
-      "id": 9,
-      "raddr": "120.77.206.2",
-      "tmp_field_sel": true,
-      "memo": "﻿97#杀戮世界菜鸟服"
-    },
-    {
-      "id": 14,
-      "raddr": "120.78.174.64",
-      "tmp_field_sel": true,
-      "memo": "﻿8#杀戮世界菜鸟服"
-    },
-    {
-      "id": 18,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿28#杀戮世界经典服"
-    },
-    {
-      "id": 1639,
-      "raddr": "114.217.157.194",
-      "tmp_field_sel": true,
-      "memo": "L4D2|CN-2"
-    },
-    {
-      "id": 2846,
-      "raddr": "114.217.159.127",
-      "tmp_field_sel": true,
-      "memo": "L4D2|CN-2"
-    },
-    {
-      "id": 3630,
-      "raddr": "114.217.158.146",
-      "tmp_field_sel": true,
-      "memo": "L4D2|CN-2"
-    },
-    {
-      "id": 4649,
-      "raddr": "120.224.134.12",
-      "tmp_field_sel": true,
-      "memo": "[KAZE Lv10]纯净3服[当前48%]"
-    },
-    {
-      "id": 6363,
-      "raddr": "43.248.185.161",
-      "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
-    },
-    {
-      "id": 6367,
-      "raddr": "43.248.184.77",
-      "tmp_field_sel": true,
-      "memo": "3E無人永生RPG战役"
-    },
-    {
-      "id": 6392,
-      "raddr": "222.187.222.71",
-      "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
-    },
-    {
-      "id": 6393,
-      "raddr": "222.187.238.157",
-      "tmp_field_sel": true,
-      "memo": "东海帝王色图药役 >>"
-    },
-    {
-      "id": 6394,
-      "raddr": "222.186.42.204",
-      "tmp_field_sel": true,
-      "memo": "﻿暗黑之魂[RPG]#3"
-    },
-    {
-      "id": 6444,
-      "raddr": "125.77.173.4",
-      "tmp_field_sel": true,
-      "memo": "﻿AKB0048|RPG娱乐服务器"
-    },
-    {
-      "id": 7160,
-      "raddr": "221.181.185.22",
-      "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
-    },
-    {
-      "id": 7767,
-      "raddr": "222.187.222.58",
-      "tmp_field_sel": true,
-      "memo": "打工人の求生小屋"
     }
   ]
 }
