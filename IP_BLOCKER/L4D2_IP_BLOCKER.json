@@ -6,64 +6,58 @@
       "id": 0,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG"
+      "memo": "[KR]XENON RPG 2"
     },
     {
       "id": 2,
       "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "[AC]X13纯净RPG★正常服"
+      "memo": "[AC]X30纯净RPG★正常服"
     },
     {
-      "id": 8,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "「天域国度」多特娱乐服#3"
-    },
-    {
-      "id": 29,
+      "id": 26,
       "raddr": "124.70.223.124",
       "tmp_field_sel": true,
       "memo": "多人多特"
     },
     {
-      "id": 30,
-      "raddr": "120.78.174.64",
+      "id": 27,
+      "raddr": "120.79.41.192",
       "tmp_field_sel": true,
-      "memo": "﻿19#杀戮世界刷怪服"
+      "memo": "﻿26#杀戮世界菜鸟服"
     },
     {
-      "id": 31,
-      "raddr": "120.77.24.39",
+      "id": 29,
+      "raddr": "120.79.5.148",
       "tmp_field_sel": true,
-      "memo": "﻿#68杀戮世界经典服"
+      "memo": "﻿X16橡子杀戮菜鸟服"
+    },
+    {
+      "id": 30,
+      "raddr": "120.79.5.0",
+      "tmp_field_sel": true,
+      "memo": "﻿T46幻想杀戮经典服"
+    },
+    {
+      "id": 32,
+      "raddr": "120.77.206.2",
+      "tmp_field_sel": true,
+      "memo": "﻿47#杀戮世界菜鸟服"
     },
     {
       "id": 33,
-      "raddr": "120.77.206.2",
+      "raddr": "120.77.24.39",
       "tmp_field_sel": true,
-      "memo": "﻿92#杀戮世界新手服"
+      "memo": "﻿#54杀戮世界菜鸟服"
     },
     {
-      "id": 34,
-      "raddr": "120.79.41.192",
+      "id": 36,
+      "raddr": "120.78.174.64",
       "tmp_field_sel": true,
-      "memo": "﻿21#杀戮世界新手服"
+      "memo": "﻿3#杀戮世界经典服"
     },
     {
-      "id": 49,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T53幻想杀戮新手服"
-    },
-    {
-      "id": 96,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X20橡子杀戮经典服"
-    },
-    {
-      "id": 3418,
+      "id": 1024,
       "raddr": "112.124.53.150",
       "tmp_field_sel": true,
       "memo": "﻿【完美世界】RPG玖服"
