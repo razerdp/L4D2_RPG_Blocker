@@ -12,55 +12,55 @@
       "id": 2,
       "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "[AC]X24纯净RPG★正常服"
+      "memo": "[AC]X23纯净RPG★正常服"
+    },
+    {
+      "id": 23,
+      "raddr": "43.249.194.250",
+      "tmp_field_sel": true,
+      "memo": "﻿「天域国度」超难战役"
     },
     {
       "id": 26,
-      "raddr": "124.70.223.124",
+      "raddr": "120.79.41.192",
       "tmp_field_sel": true,
-      "memo": "多人多特"
+      "memo": "﻿29#杀戮世界经典服"
     },
     {
-      "id": 27,
-      "raddr": "120.78.174.64",
+      "id": 28,
+      "raddr": "120.79.5.148",
       "tmp_field_sel": true,
-      "memo": "﻿14#杀戮世界经典服"
+      "memo": "﻿X20橡子杀戮经典服"
     },
     {
       "id": 29,
-      "raddr": "120.79.5.148",
+      "raddr": "120.77.24.39",
       "tmp_field_sel": true,
-      "memo": "﻿X12橡子杀戮新手服"
+      "memo": "﻿#63杀戮世界新手服"
     },
     {
-      "id": 30,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿22#杀戮世界新手服"
-    },
-    {
-      "id": 35,
+      "id": 32,
       "raddr": "120.77.206.2",
       "tmp_field_sel": true,
-      "memo": "﻿41#杀戮世界新手服"
+      "memo": "﻿44#杀戮世界菜鸟服"
+    },
+    {
+      "id": 36,
+      "raddr": "120.79.5.0",
+      "tmp_field_sel": true,
+      "memo": "﻿T57幻想杀戮经典服"
     },
     {
       "id": 37,
-      "raddr": "120.77.24.39",
+      "raddr": "120.78.174.64",
       "tmp_field_sel": true,
-      "memo": "﻿#53杀戮世界新手服"
+      "memo": "﻿7#杀戮世界菜鸟服"
     },
     {
-      "id": 43,
+      "id": 2529,
       "raddr": "112.124.53.150",
       "tmp_field_sel": true,
       "memo": "﻿【完美世界】RPG玖服"
-    },
-    {
-      "id": 87,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T59幻想杀戮经典服"
     }
   ]
 }
