@@ -10,15 +10,15 @@
     },
     {
       "id": 6,
+      "raddr": "61.183.41.77",
+      "tmp_field_sel": true,
+      "memo": "[AC]X2风花雪月RPG★新手服"
+    },
+    {
+      "id": 35,
       "raddr": "61.136.166.72",
       "tmp_field_sel": true,
       "memo": "﻿[趣味]-巅峰模式"
-    },
-    {
-      "id": 46,
-      "raddr": "61.183.41.77",
-      "tmp_field_sel": true,
-      "memo": "[AC]X1风花雪月RPG★新手服"
     }
   ]
 }
