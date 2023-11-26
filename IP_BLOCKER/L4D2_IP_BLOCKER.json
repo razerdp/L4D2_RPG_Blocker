@@ -4,141 +4,57 @@
   "data": [
     {
       "id": 0,
-      "raddr": "218.48.25.35",
-      "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG 2"
-    },
-    {
-      "id": 2,
       "raddr": "121.62.22.28",
       "tmp_field_sel": true,
       "memo": "﻿[趣味]-巅峰模式"
     },
     {
-      "id": 3,
+      "id": 1,
       "raddr": "61.136.166.72",
       "tmp_field_sel": true,
       "memo": "﻿[趣味]-巅峰模式"
     },
     {
-      "id": 11,
+      "id": 21,
       "raddr": "61.183.41.77",
       "tmp_field_sel": true,
-      "memo": "[AC]X1风花雪月RPG★新手服"
+      "memo": "[AC]X2风花雪月RPG★新手服"
     },
     {
-      "id": 50,
+      "id": 279,
+      "raddr": "218.48.25.35",
+      "tmp_field_sel": true,
+      "memo": "[KR]XENON RPG"
+    },
+    {
+      "id": 344,
       "raddr": "111.180.198.181",
       "tmp_field_sel": true,
       "memo": "饼干服"
     },
     {
-      "id": 68,
+      "id": 354,
       "raddr": "43.156.84.96",
       "tmp_field_sel": true,
       "memo": "﻿【CN】內鬼樂園"
     },
     {
-      "id": 69,
-      "raddr": "1.162.222.137",
+      "id": 603,
+      "raddr": "49.234.50.45",
       "tmp_field_sel": true,
-      "memo": "louder0804寫實專家"
+      "memo": "萌新服"
     },
     {
-      "id": 135,
-      "raddr": "202.189.6.68",
+      "id": 604,
+      "raddr": "1.117.146.10",
       "tmp_field_sel": true,
-      "memo": "求生之路纯净服 1"
+      "memo": "【午夜狂欢】经典服务器22#"
     },
     {
-      "id": 136,
-      "raddr": "150.138.77.10",
+      "id": 605,
+      "raddr": "111.229.98.80",
       "tmp_field_sel": true,
-      "memo": "[AC]X27纯净RPG★正常服"
-    },
-    {
-      "id": 139,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "﻿「天域国度」超难战役"
-    },
-    {
-      "id": 166,
-      "raddr": "120.78.174.64",
-      "tmp_field_sel": true,
-      "memo": "﻿15#杀戮世界经典服"
-    },
-    {
-      "id": 167,
-      "raddr": "120.77.24.39",
-      "tmp_field_sel": true,
-      "memo": "﻿#65杀戮世界菜鸟服"
-    },
-    {
-      "id": 168,
-      "raddr": "120.77.206.2",
-      "tmp_field_sel": true,
-      "memo": "﻿97#杀戮世界菜鸟服"
-    },
-    {
-      "id": 170,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿T23幻想杀戮新手服"
-    },
-    {
-      "id": 172,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T58幻想杀戮经典服"
-    },
-    {
-      "id": 182,
-      "raddr": "112.124.53.150",
-      "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG玖服"
-    },
-    {
-      "id": 185,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X15橡子杀戮菜鸟服"
-    },
-    {
-      "id": 202,
-      "raddr": "101.42.29.85",
-      "tmp_field_sel": true,
-      "memo": "﻿涵老师的求生之路2"
-    },
-    {
-      "id": 203,
-      "raddr": "47.107.39.86",
-      "tmp_field_sel": true,
-      "memo": "暗星3"
-    },
-    {
-      "id": 2384,
-      "raddr": "43.248.185.161",
-      "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
-    },
-    {
-      "id": 2387,
-      "raddr": "43.248.184.77",
-      "tmp_field_sel": true,
-      "memo": "3R無人永生RPG战役"
-    },
-    {
-      "id": 2389,
-      "raddr": "43.248.187.158",
-      "tmp_field_sel": true,
-      "memo": "暗星#2"
-    },
-    {
-      "id": 3467,
-      "raddr": "42.119.182.220",
-      "tmp_field_sel": true,
-      "memo": "Kaz's L4D2"
+      "memo": "[AC]X33纯净RPG★正常服"
     }
   ]
 }
