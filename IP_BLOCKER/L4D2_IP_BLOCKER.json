@@ -6,247 +6,103 @@
       "id": 0,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG"
+      "memo": "[KR]XENON RPG 2"
     },
     {
       "id": 2,
-      "raddr": "134.175.224.117",
+      "raddr": "202.189.6.68",
       "tmp_field_sel": true,
-      "memo": "﻿【CN】纯净多特"
+      "memo": "求生之路纯净服 2"
+    },
+    {
+      "id": 3,
+      "raddr": "43.249.194.250",
+      "tmp_field_sel": true,
+      "memo": "﻿「天域国度」X光娱乐4服"
     },
     {
       "id": 4,
-      "raddr": "124.221.139.51",
+      "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役111#"
+      "memo": "[AC]纯净RPG★测试服"
     },
     {
-      "id": 5,
-      "raddr": "114.132.252.231",
+      "id": 13,
+      "raddr": "8.137.33.22",
       "tmp_field_sel": true,
-      "memo": "﻿修仙大佬RPG"
+      "memo": "﻿#穷途末路#RPG房"
     },
     {
-      "id": 6,
-      "raddr": "124.220.44.10",
+      "id": 15,
+      "raddr": "47.108.230.25",
       "tmp_field_sel": true,
-      "memo": "﻿【CN】纯净多特"
+      "memo": "神喵の求生之路"
     },
     {
-      "id": 9,
-      "raddr": "1.117.146.10",
-      "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役127#"
-    },
-    {
-      "id": 10,
-      "raddr": "124.222.2.254",
-      "tmp_field_sel": true,
-      "memo": "永世乐土"
-    },
-    {
-      "id": 11,
-      "raddr": "1.12.60.31",
-      "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
-    },
-    {
-      "id": 14,
+      "id": 18,
       "raddr": "43.156.84.96",
       "tmp_field_sel": true,
       "memo": "﻿【CN】內鬼樂園"
     },
     {
-      "id": 113,
-      "raddr": "43.138.85.155",
+      "id": 306,
+      "raddr": "1.12.60.31",
       "tmp_field_sel": true,
-      "memo": "此间再无永恒之地"
+      "memo": "﻿[趣味]-巅峰模式"
     },
     {
-      "id": 178,
-      "raddr": "120.53.122.246",
+      "id": 307,
+      "raddr": "124.221.139.51",
       "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG贰服"
+      "memo": "【午夜狂欢】5倍经验金币服100#"
     },
     {
-      "id": 179,
-      "raddr": "82.157.247.242",
-      "tmp_field_sel": true,
-      "memo": "﻿求_生_之_路RPG破解版"
-    },
-    {
-      "id": 184,
-      "raddr": "123.207.78.102",
-      "tmp_field_sel": true,
-      "memo": "﻿珏珏子"
-    },
-    {
-      "id": 188,
-      "raddr": "110.42.205.226",
-      "tmp_field_sel": true,
-      "memo": "求生之路2之旅"
-    },
-    {
-      "id": 190,
-      "raddr": "49.235.123.23",
-      "tmp_field_sel": true,
-      "memo": "﻿8 V 8 经典对抗"
-    },
-    {
-      "id": 192,
-      "raddr": "119.91.143.172",
-      "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG拾伍服"
-    },
-    {
-      "id": 196,
-      "raddr": "159.75.111.227",
-      "tmp_field_sel": true,
-      "memo": "生存之旅2"
-    },
-    {
-      "id": 198,
-      "raddr": "123.56.247.78",
-      "tmp_field_sel": true,
-      "memo": "﻿--怀旧2服-魂魄RPG--"
-    },
-    {
-      "id": 204,
-      "raddr": "43.136.57.180",
-      "tmp_field_sel": true,
-      "memo": "﻿五月病"
-    },
-    {
-      "id": 206,
-      "raddr": "81.70.96.146",
-      "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役118#"
-    },
-    {
-      "id": 207,
-      "raddr": "43.138.196.253",
-      "tmp_field_sel": true,
-      "memo": "写专多特 100tick[4特5秒]"
-    },
-    {
-      "id": 210,
-      "raddr": "124.222.53.237",
-      "tmp_field_sel": true,
-      "memo": "风花雪月战役[6特16s]"
-    },
-    {
-      "id": 212,
+      "id": 308,
       "raddr": "43.136.31.152",
       "tmp_field_sel": true,
       "memo": "﻿#[RPG]紫荆之巅#"
     },
     {
-      "id": 215,
-      "raddr": "124.221.150.114",
+      "id": 309,
+      "raddr": "1.117.146.10",
       "tmp_field_sel": true,
-      "memo": "暗星#1"
+      "memo": "【午夜狂欢】多人战役128#"
     },
     {
-      "id": 216,
-      "raddr": "175.178.98.57",
+      "id": 311,
+      "raddr": "123.56.247.78",
       "tmp_field_sel": true,
-      "memo": "神秘组织"
+      "memo": "﻿--怀旧2服-魂魄RPG--"
     },
     {
-      "id": 252,
-      "raddr": "175.178.96.5",
+      "id": 312,
+      "raddr": "134.175.224.117",
       "tmp_field_sel": true,
-      "memo": "少女之路"
+      "memo": "﻿【CN】纯净多特"
     },
     {
-      "id": 260,
-      "raddr": "43.138.112.221",
+      "id": 385,
+      "raddr": "1.162.254.42",
       "tmp_field_sel": true,
-      "memo": "﻿【CN】內鬼乐园"
+      "memo": "louder0804寫實專家"
     },
     {
-      "id": 261,
-      "raddr": "123.207.202.114",
+      "id": 901,
+      "raddr": "82.157.247.242",
       "tmp_field_sel": true,
-      "memo": "求生之路啥子竞赛"
+      "memo": "﻿求_生_之_路RPG破解版"
     },
     {
-      "id": 274,
-      "raddr": "43.138.79.170",
+      "id": 2068,
+      "raddr": "114.132.252.231",
       "tmp_field_sel": true,
-      "memo": "幻想乡"
+      "memo": "﻿天下第一RPG"
     },
     {
-      "id": 282,
-      "raddr": "111.230.98.33",
+      "id": 2654,
+      "raddr": "123.207.78.102",
       "tmp_field_sel": true,
-      "memo": "﻿K服[绝境28]"
-    },
-    {
-      "id": 548,
-      "raddr": "1.14.62.120",
-      "tmp_field_sel": true,
-      "memo": "﻿遗失世界"
-    },
-    {
-      "id": 550,
-      "raddr": "211.101.239.253",
-      "tmp_field_sel": true,
-      "memo": "地灵殿"
-    },
-    {
-      "id": 553,
-      "raddr": "49.234.50.92",
-      "tmp_field_sel": true,
-      "memo": "神喵の求生之路②"
-    },
-    {
-      "id": 558,
-      "raddr": "1.70.33.80",
-      "tmp_field_sel": true,
-      "memo": "14人绝境求生 8服"
-    },
-    {
-      "id": 559,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "﻿「天域」苍蓝娱乐服"
-    },
-    {
-      "id": 560,
-      "raddr": "202.189.6.68",
-      "tmp_field_sel": true,
-      "memo": "求生之路纯净服 1"
-    },
-    {
-      "id": 562,
-      "raddr": "150.138.77.10",
-      "tmp_field_sel": true,
-      "memo": "[AC]X25纯净RPG★正常服"
-    },
-    {
-      "id": 654,
-      "raddr": "43.248.185.161",
-      "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
-    },
-    {
-      "id": 659,
-      "raddr": "43.248.184.77",
-      "tmp_field_sel": true,
-      "memo": "3F無人永生RPG战役"
-    },
-    {
-      "id": 776,
-      "raddr": "124.223.216.46",
-      "tmp_field_sel": true,
-      "memo": "4人装甲服"
-    },
-    {
-      "id": 1575,
-      "raddr": "1.52.149.143",
-      "tmp_field_sel": true,
-      "memo": "Kaz's L4D2"
+      "memo": "﻿珏珏子"
     }
   ]
 }
