@@ -6,7 +6,7 @@
       "id": 0,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG 2"
+      "memo": "[KR]XENON RPG"
     },
     {
       "id": 2,
@@ -18,31 +18,37 @@
       "id": 3,
       "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "[AC]X11纯净RPG★正常服"
+      "memo": "[AC]X16纯净RPG★正常服"
     },
     {
-      "id": 12,
-      "raddr": "43.249.194.250",
-      "tmp_field_sel": true,
-      "memo": "﻿「天域」苍蓝娱乐服"
-    },
-    {
-      "id": 13,
+      "id": 16,
       "raddr": "202.189.6.68",
       "tmp_field_sel": true,
       "memo": "求生之路纯净服 1"
     },
     {
-      "id": 95,
+      "id": 17,
+      "raddr": "43.249.194.250",
+      "tmp_field_sel": true,
+      "memo": "﻿「天域」苍蓝娱乐服"
+    },
+    {
+      "id": 97,
+      "raddr": "8.137.33.22",
+      "tmp_field_sel": true,
+      "memo": "﻿#穷途末路#RPG房"
+    },
+    {
+      "id": 1361,
       "raddr": "150.138.83.57",
       "tmp_field_sel": true,
       "memo": "梦幻云端console"
     },
     {
-      "id": 96,
-      "raddr": "8.137.33.22",
+      "id": 2664,
+      "raddr": "120.224.134.12",
       "tmp_field_sel": true,
-      "memo": "﻿#穷途末路#RPG房"
+      "memo": "[KAZE Lv10]纯净1服[当前104%]"
     }
   ]
 }
