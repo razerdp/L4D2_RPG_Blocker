@@ -10,63 +10,243 @@
     },
     {
       "id": 2,
-      "raddr": "222.186.42.204",
-      "tmp_field_sel": true,
-      "memo": "﻿暗黑之魂[RPG]#4"
-    },
-    {
-      "id": 10,
-      "raddr": "115.231.218.160",
-      "tmp_field_sel": true,
-      "memo": "❶[腐尸之地]♂RPG"
-    },
-    {
-      "id": 27,
-      "raddr": "125.229.164.110",
-      "tmp_field_sel": true,
-      "memo": "CTF"
-    },
-    {
-      "id": 33,
-      "raddr": "1.162.213.174",
-      "tmp_field_sel": true,
-      "memo": "louder0804寫實專家"
-    },
-    {
-      "id": 36,
       "raddr": "43.156.84.96",
       "tmp_field_sel": true,
       "memo": "﻿【CN】內鬼樂園"
     },
     {
-      "id": 37,
-      "raddr": "43.248.186.128",
+      "id": 3,
+      "raddr": "120.53.122.246",
       "tmp_field_sel": true,
-      "memo": "求生菜菜屋100t"
+      "memo": "﻿【完美世界】RPG叁服"
     },
     {
-      "id": 39,
-      "raddr": "43.248.184.77",
+      "id": 4,
+      "raddr": "43.136.31.152",
       "tmp_field_sel": true,
-      "memo": "3R無人永生RPG战役"
+      "memo": "﻿#[RPG]紫荆之巅#"
+    },
+    {
+      "id": 6,
+      "raddr": "81.70.96.146",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】多人战役120#"
+    },
+    {
+      "id": 7,
+      "raddr": "1.117.146.10",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】经典服务器26#"
+    },
+    {
+      "id": 8,
+      "raddr": "114.132.252.231",
+      "tmp_field_sel": true,
+      "memo": "﻿天下第一RPG"
+    },
+    {
+      "id": 9,
+      "raddr": "43.138.79.170",
+      "tmp_field_sel": true,
+      "memo": "幻想乡"
+    },
+    {
+      "id": 10,
+      "raddr": "1.12.60.31",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-巅峰模式"
+    },
+    {
+      "id": 11,
+      "raddr": "43.136.57.180",
+      "tmp_field_sel": true,
+      "memo": "﻿五月病"
+    },
+    {
+      "id": 13,
+      "raddr": "43.138.112.221",
+      "tmp_field_sel": true,
+      "memo": "﻿【CN】纯净对抗"
+    },
+    {
+      "id": 17,
+      "raddr": "124.221.139.51",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】多人战役110#"
+    },
+    {
+      "id": 21,
+      "raddr": "134.175.224.117",
+      "tmp_field_sel": true,
+      "memo": "﻿【CN】纯净多特"
+    },
+    {
+      "id": 23,
+      "raddr": "124.222.2.254",
+      "tmp_field_sel": true,
+      "memo": "永世乐土"
+    },
+    {
+      "id": 32,
+      "raddr": "82.157.247.242",
+      "tmp_field_sel": true,
+      "memo": "﻿求_生_之_路RPG破解版"
+    },
+    {
+      "id": 36,
+      "raddr": "159.75.111.227",
+      "tmp_field_sel": true,
+      "memo": "生存之旅2"
+    },
+    {
+      "id": 38,
+      "raddr": "1.14.62.120",
+      "tmp_field_sel": true,
+      "memo": "﻿遗失世界"
     },
     {
       "id": 40,
-      "raddr": "43.248.185.161",
+      "raddr": "8.137.33.22",
       "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
+      "memo": "﻿#穷途末路#RPG房"
     },
     {
-      "id": 60,
-      "raddr": "222.187.238.157",
+      "id": 44,
+      "raddr": "49.235.123.23",
       "tmp_field_sel": true,
-      "memo": "东海帝王色图药役 |"
+      "memo": "﻿8 V 8 经典对抗"
     },
     {
-      "id": 3939,
-      "raddr": "43.248.187.90",
+      "id": 57,
+      "raddr": "111.230.98.33",
       "tmp_field_sel": true,
-      "memo": "3R無人永生RPG战役"
+      "memo": "﻿K服[绝境28]"
+    },
+    {
+      "id": 58,
+      "raddr": "124.220.44.10",
+      "tmp_field_sel": true,
+      "memo": "﻿【CN】纯净多特"
+    },
+    {
+      "id": 59,
+      "raddr": "43.138.85.155",
+      "tmp_field_sel": true,
+      "memo": "此间再无永恒之地"
+    },
+    {
+      "id": 67,
+      "raddr": "119.91.143.172",
+      "tmp_field_sel": true,
+      "memo": "﻿【完美世界】RPG拾叁服"
+    },
+    {
+      "id": 69,
+      "raddr": "123.207.202.114",
+      "tmp_field_sel": true,
+      "memo": "求生之路啥子竞赛"
+    },
+    {
+      "id": 77,
+      "raddr": "175.178.98.57",
+      "tmp_field_sel": true,
+      "memo": "神秘组织"
+    },
+    {
+      "id": 81,
+      "raddr": "124.221.150.114",
+      "tmp_field_sel": true,
+      "memo": "暗星#1"
+    },
+    {
+      "id": 92,
+      "raddr": "49.234.50.92",
+      "tmp_field_sel": true,
+      "memo": "神喵の求生之路②"
+    },
+    {
+      "id": 96,
+      "raddr": "211.101.239.168",
+      "tmp_field_sel": true,
+      "memo": "地灵殿"
+    },
+    {
+      "id": 102,
+      "raddr": "81.71.153.172",
+      "tmp_field_sel": true,
+      "memo": "﻿烟花三月#3"
+    },
+    {
+      "id": 105,
+      "raddr": "110.42.205.226",
+      "tmp_field_sel": true,
+      "memo": "求生之路2之旅"
+    },
+    {
+      "id": 108,
+      "raddr": "123.207.78.102",
+      "tmp_field_sel": true,
+      "memo": "﻿珏珏子"
+    },
+    {
+      "id": 109,
+      "raddr": "175.178.96.5",
+      "tmp_field_sel": true,
+      "memo": "少女之路"
+    },
+    {
+      "id": 133,
+      "raddr": "124.222.53.237",
+      "tmp_field_sel": true,
+      "memo": "风花雪月战役[6特16s]"
+    },
+    {
+      "id": 134,
+      "raddr": "49.233.14.105",
+      "tmp_field_sel": true,
+      "memo": "尸潮服"
+    },
+    {
+      "id": 164,
+      "raddr": "150.138.77.10",
+      "tmp_field_sel": true,
+      "memo": "[AC]X77纯净RPG★正常服"
+    },
+    {
+      "id": 168,
+      "raddr": "202.189.6.68",
+      "tmp_field_sel": true,
+      "memo": "求生之路纯净服 2"
+    },
+    {
+      "id": 181,
+      "raddr": "43.249.194.250",
+      "tmp_field_sel": true,
+      "memo": "﻿「天域」苍蓝娱乐服"
+    },
+    {
+      "id": 1243,
+      "raddr": "125.229.164.110",
+      "tmp_field_sel": true,
+      "memo": "CTF"
+    },
+    {
+      "id": 1244,
+      "raddr": "1.162.213.174",
+      "tmp_field_sel": true,
+      "memo": "louder0804寫實專家"
+    },
+    {
+      "id": 1640,
+      "raddr": "122.51.41.190",
+      "tmp_field_sel": true,
+      "memo": "﻿星轨黑枪王"
+    },
+    {
+      "id": 4214,
+      "raddr": "120.224.134.12",
+      "tmp_field_sel": true,
+      "memo": "[KAZE Lv10]纯净4服[当前81%]"
     }
   ]
 }
