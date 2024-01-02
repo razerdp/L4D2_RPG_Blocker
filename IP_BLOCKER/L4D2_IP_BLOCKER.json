@@ -9,58 +9,22 @@
       "memo": "[KR]XENON RPG 2"
     },
     {
-      "id": 2,
-      "raddr": "43.248.187.90",
-      "tmp_field_sel": true,
-      "memo": "3V無人永生RPG战役"
-    },
-    {
-      "id": 4,
-      "raddr": "43.248.185.161",
-      "tmp_field_sel": true,
-      "memo": "﻿帝王RPG战役服[数据互通]"
-    },
-    {
-      "id": 5,
-      "raddr": "43.248.187.158",
+      "id": 1,
+      "raddr": "180.101.45.49",
       "tmp_field_sel": true,
       "memo": "暗星#2"
     },
     {
-      "id": 7,
-      "raddr": "222.187.238.157",
-      "tmp_field_sel": true,
-      "memo": "东海帝王色图药役 |"
-    },
-    {
-      "id": 10,
-      "raddr": "43.248.185.10",
-      "tmp_field_sel": true,
-      "memo": "[CN]野生牢房"
-    },
-    {
-      "id": 17,
+      "id": 2,
       "raddr": "116.211.145.63",
       "tmp_field_sel": true,
-      "memo": "1#[白色]上帝之手"
+      "memo": "5#[白色]上帝之手"
     },
     {
-      "id": 27,
+      "id": 12,
       "raddr": "8.137.33.22",
       "tmp_field_sel": true,
       "memo": "﻿#穷途末路#RPG房"
-    },
-    {
-      "id": 31,
-      "raddr": "61.231.195.163",
-      "tmp_field_sel": true,
-      "memo": "louder0804寫實專家"
-    },
-    {
-      "id": 3048,
-      "raddr": "43.248.186.128",
-      "tmp_field_sel": true,
-      "memo": "求生菜菜屋100tick-4服"
     }
   ]
 }
