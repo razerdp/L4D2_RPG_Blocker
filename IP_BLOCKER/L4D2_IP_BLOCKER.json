@@ -9,22 +9,70 @@
       "memo": "[KR]XENON RPG 2"
     },
     {
-      "id": 1,
-      "raddr": "180.101.45.49",
-      "tmp_field_sel": true,
-      "memo": "暗星#2"
-    },
-    {
       "id": 2,
-      "raddr": "116.211.145.63",
+      "raddr": "1.14.62.120",
       "tmp_field_sel": true,
-      "memo": "5#[白色]上帝之手"
+      "memo": "﻿遗失世界"
     },
     {
-      "id": 12,
-      "raddr": "8.137.33.22",
+      "id": 3,
+      "raddr": "101.43.180.236",
       "tmp_field_sel": true,
-      "memo": "﻿#穷途末路#RPG房"
+      "memo": "木e院求生之路2分部"
+    },
+    {
+      "id": 4,
+      "raddr": "1.12.60.31",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-巅峰模式"
+    },
+    {
+      "id": 5,
+      "raddr": "49.233.14.105",
+      "tmp_field_sel": true,
+      "memo": "一人一特"
+    },
+    {
+      "id": 6,
+      "raddr": "124.221.139.51",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】多人战役105#"
+    },
+    {
+      "id": 7,
+      "raddr": "81.70.96.146",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】经典服务器22#"
+    },
+    {
+      "id": 8,
+      "raddr": "114.132.252.231",
+      "tmp_field_sel": true,
+      "memo": "﻿天下第一RPG"
+    },
+    {
+      "id": 9,
+      "raddr": "119.91.143.172",
+      "tmp_field_sel": true,
+      "memo": "﻿【完美世界】RPG拾伍服"
+    },
+    {
+      "id": 15,
+      "raddr": "124.221.43.76",
+      "tmp_field_sel": true,
+      "memo": "﻿#紫荆之巅]#RPG房"
+    },
+    {
+      "id": 19,
+      "raddr": "101.43.61.55",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】经典服务器26#"
+    },
+    {
+      "id": 840,
+      "raddr": "159.75.111.227",
+      "tmp_field_sel": true,
+      "memo": "生存之旅2"
     }
   ]
 }
