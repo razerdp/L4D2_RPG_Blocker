@@ -6,13 +6,13 @@
       "id": 0,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG 2"
+      "memo": "[KR]XENON RPG"
     },
     {
       "id": 2,
       "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "[AC]X39纯净RPG★正常服"
+      "memo": "[AC]X11纯净RPG★正常服"
     },
     {
       "id": 17,
@@ -21,142 +21,76 @@
       "memo": "﻿「天域」苍蓝娱乐服"
     },
     {
-      "id": 29,
+      "id": 18,
       "raddr": "211.99.98.118",
       "tmp_field_sel": true,
       "memo": "暗星#2"
     },
     {
-      "id": 32,
-      "raddr": "124.222.2.254",
-      "tmp_field_sel": true,
-      "memo": "永世乐土"
-    },
-    {
-      "id": 33,
-      "raddr": "124.222.219.163",
-      "tmp_field_sel": true,
-      "memo": "30秒4特[5]"
-    },
-    {
-      "id": 34,
+      "id": 498,
       "raddr": "1.12.60.31",
       "tmp_field_sel": true,
       "memo": "[趣味]-弑神巅峰"
     },
     {
-      "id": 35,
-      "raddr": "122.152.201.33",
-      "tmp_field_sel": true,
-      "memo": "对抗100tick"
-    },
-    {
-      "id": 36,
-      "raddr": "124.221.43.76",
-      "tmp_field_sel": true,
-      "memo": "﻿#午夜军魂#RPG房"
-    },
-    {
-      "id": 37,
+      "id": 499,
       "raddr": "124.221.139.51",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役109#"
+      "memo": "【午夜狂欢】多人战役110#"
     },
     {
-      "id": 39,
-      "raddr": "124.220.44.10",
+      "id": 500,
+      "raddr": "124.223.216.46",
       "tmp_field_sel": true,
-      "memo": "【CN】纯净对抗"
+      "memo": "4人装甲服"
     },
     {
-      "id": 41,
-      "raddr": "124.221.150.114",
-      "tmp_field_sel": true,
-      "memo": "暗星#1"
-    },
-    {
-      "id": 42,
-      "raddr": "101.42.172.84",
-      "tmp_field_sel": true,
-      "memo": "﻿鸽子团"
-    },
-    {
-      "id": 43,
-      "raddr": "119.91.204.131",
-      "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG肆服"
-    },
-    {
-      "id": 47,
-      "raddr": "110.42.205.226",
-      "tmp_field_sel": true,
-      "memo": "求生之路2之旅"
-    },
-    {
-      "id": 50,
-      "raddr": "43.136.57.180",
-      "tmp_field_sel": true,
-      "memo": "﻿五月病"
-    },
-    {
-      "id": 51,
-      "raddr": "122.51.41.190",
-      "tmp_field_sel": true,
-      "memo": "﻿星轨黑枪王"
-    },
-    {
-      "id": 53,
+      "id": 502,
       "raddr": "101.43.180.236",
       "tmp_field_sel": true,
       "memo": "木e院求生之路2分部"
     },
     {
-      "id": 55,
+      "id": 504,
+      "raddr": "114.132.252.231",
+      "tmp_field_sel": true,
+      "memo": "﻿天下第一RPG"
+    },
+    {
+      "id": 512,
+      "raddr": "124.221.43.76",
+      "tmp_field_sel": true,
+      "memo": "﻿#午夜军魂#RPG房"
+    },
+    {
+      "id": 516,
       "raddr": "123.207.202.114",
       "tmp_field_sel": true,
       "memo": "求生之路啥子竞赛"
     },
     {
-      "id": 57,
-      "raddr": "119.91.143.172",
+      "id": 517,
+      "raddr": "124.220.44.10",
       "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG拾伍服"
+      "memo": "【CN】纯净对抗"
     },
     {
-      "id": 60,
+      "id": 518,
       "raddr": "101.43.61.55",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役118#"
+      "memo": "【午夜狂欢】多人战役119#"
     },
     {
-      "id": 757,
+      "id": 3872,
       "raddr": "43.249.194.239",
       "tmp_field_sel": true,
-      "memo": "[K服 Lv10]纯净4服[当前38%]"
+      "memo": "[K服 Lv10]纯净10服[当前46%]"
     },
     {
-      "id": 2176,
-      "raddr": "81.70.96.146",
+      "id": 4586,
+      "raddr": "124.222.2.254",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】纯净三方服"
-    },
-    {
-      "id": 4141,
-      "raddr": "123.207.78.102",
-      "tmp_field_sel": true,
-      "memo": "﻿珏珏子"
-    },
-    {
-      "id": 4783,
-      "raddr": "43.156.101.68",
-      "tmp_field_sel": true,
-      "memo": "﻿￦48.无限火力"
-    },
-    {
-      "id": 6250,
-      "raddr": "43.139.136.3",
-      "tmp_field_sel": true,
-      "memo": "时光之屋"
+      "memo": "永世乐土"
     }
   ]
 }
