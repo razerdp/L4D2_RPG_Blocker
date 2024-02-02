@@ -4,87 +4,69 @@
   "data": [
     {
       "id": 0,
-      "raddr": "120.78.174.64",
-      "tmp_field_sel": true,
-      "memo": "﻿15#杀戮世界经典服"
-    },
-    {
-      "id": 1,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿24#杀戮世界新手服"
-    },
-    {
-      "id": 2,
-      "raddr": "120.77.206.2",
-      "tmp_field_sel": true,
-      "memo": "﻿45#杀戮世界菜鸟服"
-    },
-    {
-      "id": 3,
-      "raddr": "120.77.24.39",
-      "tmp_field_sel": true,
-      "memo": "﻿#60杀戮世界经典服"
-    },
-    {
-      "id": 10,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T43幻想杀戮菜鸟服"
-    },
-    {
-      "id": 14,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X9橡子杀戮经典服"
-    },
-    {
-      "id": 36,
-      "raddr": "112.124.53.150",
-      "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG玖服"
-    },
-    {
-      "id": 104,
-      "raddr": "218.48.25.35",
-      "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG"
-    },
-    {
-      "id": 106,
-      "raddr": "150.138.77.10",
-      "tmp_field_sel": true,
-      "memo": "[AC]X31纯净RPG★正常服"
-    },
-    {
-      "id": 110,
-      "raddr": "150.138.79.43",
-      "tmp_field_sel": true,
-      "memo": "[AC]X113纯净RPG★正常服"
-    },
-    {
-      "id": 116,
-      "raddr": "211.99.98.118",
-      "tmp_field_sel": true,
-      "memo": "暗星#2"
-    },
-    {
-      "id": 188,
       "raddr": "47.109.131.80",
       "tmp_field_sel": true,
       "memo": "无限多特"
     },
     {
-      "id": 3930,
-      "raddr": "43.249.194.250",
+      "id": 1,
+      "raddr": "120.77.206.2",
       "tmp_field_sel": true,
-      "memo": "﻿「天域国度」X光娱乐4服"
+      "memo": "﻿45#杀戮世界菜鸟服"
     },
     {
-      "id": 6909,
-      "raddr": "43.249.194.239",
+      "id": 2,
+      "raddr": "120.78.174.64",
       "tmp_field_sel": true,
-      "memo": "[K服 Lv10]纯净1服[当前48%]"
+      "memo": "﻿9#杀戮世界菜鸟服"
+    },
+    {
+      "id": 4,
+      "raddr": "120.79.41.192",
+      "tmp_field_sel": true,
+      "memo": "﻿T30幻想杀戮经典服"
+    },
+    {
+      "id": 5,
+      "raddr": "120.79.5.0",
+      "tmp_field_sel": true,
+      "memo": "﻿T57幻想杀戮经典服"
+    },
+    {
+      "id": 8,
+      "raddr": "120.79.5.148",
+      "tmp_field_sel": true,
+      "memo": "﻿X1橡子杀戮新手服"
+    },
+    {
+      "id": 15,
+      "raddr": "120.77.24.39",
+      "tmp_field_sel": true,
+      "memo": "﻿#67杀戮世界菜鸟服"
+    },
+    {
+      "id": 73,
+      "raddr": "112.124.53.150",
+      "tmp_field_sel": true,
+      "memo": "﻿【完美世界】RPG玖服"
+    },
+    {
+      "id": 113,
+      "raddr": "218.48.25.35",
+      "tmp_field_sel": true,
+      "memo": "[KR]XENON RPG 2"
+    },
+    {
+      "id": 115,
+      "raddr": "222.187.227.148",
+      "tmp_field_sel": true,
+      "memo": "无限火力"
+    },
+    {
+      "id": 8769,
+      "raddr": "47.98.234.249",
+      "tmp_field_sel": true,
+      "memo": "服务器"
     }
   ]
 }
