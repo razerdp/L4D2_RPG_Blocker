@@ -4,69 +4,75 @@
   "data": [
     {
       "id": 0,
-      "raddr": "120.79.41.192",
+      "raddr": "120.79.5.148",
       "tmp_field_sel": true,
-      "memo": "﻿T29幻想杀戮经典服"
+      "memo": "﻿X11橡子杀戮新手服"
     },
     {
       "id": 1,
-      "raddr": "120.78.174.64",
+      "raddr": "120.79.41.192",
       "tmp_field_sel": true,
-      "memo": "﻿9#杀戮世界菜鸟服"
+      "memo": "﻿T30幻想杀戮经典服"
     },
     {
-      "id": 3,
-      "raddr": "120.77.206.2",
-      "tmp_field_sel": true,
-      "memo": "﻿49#杀戮世界经典服"
-    },
-    {
-      "id": 5,
-      "raddr": "120.77.24.39",
-      "tmp_field_sel": true,
-      "memo": "﻿#64杀戮世界菜鸟服"
-    },
-    {
-      "id": 8,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X8橡子杀戮经典服"
-    },
-    {
-      "id": 9,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T54幻想杀戮新手服"
-    },
-    {
-      "id": 25,
+      "id": 2,
       "raddr": "112.124.53.150",
       "tmp_field_sel": true,
       "memo": "﻿【完美世界】RPG拾服"
     },
     {
-      "id": 86,
+      "id": 3,
+      "raddr": "120.77.206.2",
+      "tmp_field_sel": true,
+      "memo": "﻿48#杀戮世界经典服"
+    },
+    {
+      "id": 5,
+      "raddr": "120.79.5.0",
+      "tmp_field_sel": true,
+      "memo": "﻿T60幻想杀戮经典服"
+    },
+    {
+      "id": 9,
+      "raddr": "120.78.174.64",
+      "tmp_field_sel": true,
+      "memo": "﻿13#杀戮世界经典服"
+    },
+    {
+      "id": 12,
+      "raddr": "120.77.24.39",
+      "tmp_field_sel": true,
+      "memo": "﻿#67杀戮世界菜鸟服"
+    },
+    {
+      "id": 72,
       "raddr": "47.109.131.80",
       "tmp_field_sel": true,
       "memo": "无限多特"
     },
     {
-      "id": 314,
+      "id": 912,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG"
+      "memo": "[KR]XENON RPG 2"
     },
     {
-      "id": 315,
-      "raddr": "222.187.227.148",
+      "id": 914,
+      "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "无限火力"
+      "memo": "[AC]X49纯净RPG★正常服"
     },
     {
-      "id": 6870,
-      "raddr": "222.187.254.87",
+      "id": 929,
+      "raddr": "150.138.79.43",
       "tmp_field_sel": true,
-      "memo": "1#帝王RPG战役服[数据互通]"
+      "memo": "[AC]X248纯净RPG★正常服"
+    },
+    {
+      "id": 2372,
+      "raddr": "211.99.98.118",
+      "tmp_field_sel": true,
+      "memo": "暗星#2"
     }
   ]
 }
