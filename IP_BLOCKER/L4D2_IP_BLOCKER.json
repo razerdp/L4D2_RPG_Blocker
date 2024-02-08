@@ -4,33 +4,135 @@
   "data": [
     {
       "id": 0,
-      "raddr": "150.138.79.43",
-      "tmp_field_sel": true,
-      "memo": "[AC]X105纯净RPG★正常服"
-    },
-    {
-      "id": 3,
-      "raddr": "150.138.77.10",
-      "tmp_field_sel": true,
-      "memo": "[AC]X22纯净RPG★正常服"
-    },
-    {
-      "id": 75,
       "raddr": "211.99.98.118",
       "tmp_field_sel": true,
       "memo": "暗星#2"
     },
     {
-      "id": 2029,
+      "id": 1,
+      "raddr": "58.220.27.152",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-弑神巅峰"
+    },
+    {
+      "id": 89,
+      "raddr": "118.170.66.51",
+      "tmp_field_sel": true,
+      "memo": "阿起世界 RPG 戰役"
+    },
+    {
+      "id": 272,
       "raddr": "43.249.194.250",
       "tmp_field_sel": true,
       "memo": "﻿「天域国度」X光娱乐4服"
     },
     {
-      "id": 9196,
-      "raddr": "43.249.194.239",
+      "id": 1422,
+      "raddr": "218.48.25.35",
       "tmp_field_sel": true,
-      "memo": "[K服 Lv10]纯净2服[当前48%]"
+      "memo": "[KR]XENON RPG 2"
+    },
+    {
+      "id": 1569,
+      "raddr": "124.221.139.51",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】多人战役114#"
+    },
+    {
+      "id": 1572,
+      "raddr": "101.43.61.55",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】多人战役120#"
+    },
+    {
+      "id": 1573,
+      "raddr": "49.234.50.45",
+      "tmp_field_sel": true,
+      "memo": "[~~RPG~~]$$$$$"
+    },
+    {
+      "id": 1575,
+      "raddr": "1.12.60.31",
+      "tmp_field_sel": true,
+      "memo": "[趣味]-弑神巅峰"
+    },
+    {
+      "id": 1577,
+      "raddr": "101.42.172.84",
+      "tmp_field_sel": true,
+      "memo": "﻿鸽子团"
+    },
+    {
+      "id": 1579,
+      "raddr": "49.235.121.126",
+      "tmp_field_sel": true,
+      "memo": "﻿Y花独月D"
+    },
+    {
+      "id": 2104,
+      "raddr": "193.112.85.169",
+      "tmp_field_sel": true,
+      "memo": "﻿〤公益RPG〤超爽修仙服"
+    },
+    {
+      "id": 2109,
+      "raddr": "124.221.43.76",
+      "tmp_field_sel": true,
+      "memo": "﻿#紫荆之巅]#RPG房"
+    },
+    {
+      "id": 2146,
+      "raddr": "81.70.96.146",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】纯净三方服"
+    },
+    {
+      "id": 2163,
+      "raddr": "222.187.254.87",
+      "tmp_field_sel": true,
+      "memo": "3#帝王RPG战役服[数据互通]"
+    },
+    {
+      "id": 2177,
+      "raddr": "222.186.42.204",
+      "tmp_field_sel": true,
+      "memo": "﻿暗黑之魂[RPG]#8"
+    },
+    {
+      "id": 2437,
+      "raddr": "43.138.112.221",
+      "tmp_field_sel": true,
+      "memo": "﻿【CN】内鬼乐园"
+    },
+    {
+      "id": 2488,
+      "raddr": "134.175.224.117",
+      "tmp_field_sel": true,
+      "memo": "【CN】纯净多特"
+    },
+    {
+      "id": 3348,
+      "raddr": "124.220.44.10",
+      "tmp_field_sel": true,
+      "memo": "【CN】纯净对抗"
+    },
+    {
+      "id": 4247,
+      "raddr": "123.113.145.131",
+      "tmp_field_sel": true,
+      "memo": "【CN】纯净战役"
+    },
+    {
+      "id": 5201,
+      "raddr": "123.113.150.221",
+      "tmp_field_sel": true,
+      "memo": "￦纯净四人"
+    },
+    {
+      "id": 6240,
+      "raddr": "43.138.203.127",
+      "tmp_field_sel": true,
+      "memo": "求Pの多特"
     }
   ]
 }
