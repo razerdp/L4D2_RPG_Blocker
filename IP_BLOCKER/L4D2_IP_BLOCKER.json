@@ -6,61 +6,211 @@
       "id": 0,
       "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "[AC]X91纯净RPG★正常服"
+      "memo": "[AC]纯净RPG★测试服"
     },
     {
-      "id": 4,
+      "id": 1,
       "raddr": "43.249.194.250",
       "tmp_field_sel": true,
       "memo": "﻿「天域国度」X光娱乐4服"
     },
     {
-      "id": 8,
+      "id": 5,
       "raddr": "211.99.98.118",
       "tmp_field_sel": true,
       "memo": "暗星#2"
     },
     {
-      "id": 2323,
-      "raddr": "120.77.24.39",
-      "tmp_field_sel": true,
-      "memo": "﻿#53杀戮世界新手服"
-    },
-    {
-      "id": 2324,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X9橡子杀戮经典服"
-    },
-    {
-      "id": 2325,
+      "id": 182,
       "raddr": "120.79.41.192",
       "tmp_field_sel": true,
-      "memo": "﻿T27幻想杀戮经典服"
+      "memo": "﻿T28幻想杀戮高手服"
     },
     {
-      "id": 5637,
-      "raddr": "43.249.194.239",
-      "tmp_field_sel": true,
-      "memo": "[K服 Lv10]纯净10服[当前8%]"
-    },
-    {
-      "id": 6846,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T43幻想杀戮菜鸟服"
-    },
-    {
-      "id": 6847,
-      "raddr": "120.78.174.64",
-      "tmp_field_sel": true,
-      "memo": "﻿11#杀戮世界经典服"
-    },
-    {
-      "id": 9106,
+      "id": 183,
       "raddr": "120.77.206.2",
       "tmp_field_sel": true,
-      "memo": "﻿98#杀戮世界经典服"
+      "memo": "﻿47#杀戮世界菜鸟服"
+    },
+    {
+      "id": 185,
+      "raddr": "120.78.174.64",
+      "tmp_field_sel": true,
+      "memo": "﻿10#杀戮世界三方服"
+    },
+    {
+      "id": 187,
+      "raddr": "120.77.24.39",
+      "tmp_field_sel": true,
+      "memo": "﻿#51杀戮世界新手服"
+    },
+    {
+      "id": 190,
+      "raddr": "120.79.5.0",
+      "tmp_field_sel": true,
+      "memo": "﻿T60幻想杀戮经典服"
+    },
+    {
+      "id": 191,
+      "raddr": "120.79.5.148",
+      "tmp_field_sel": true,
+      "memo": "﻿X5橡子杀戮菜鸟服"
+    },
+    {
+      "id": 274,
+      "raddr": "118.170.66.51",
+      "tmp_field_sel": true,
+      "memo": "阿起世界 RPG 戰役"
+    },
+    {
+      "id": 275,
+      "raddr": "119.23.51.163",
+      "tmp_field_sel": true,
+      "memo": "﻿#73杀戮世界新手服"
+    },
+    {
+      "id": 276,
+      "raddr": "120.24.67.55",
+      "tmp_field_sel": true,
+      "memo": "﻿T13幻想杀戮经典服"
+    },
+    {
+      "id": 277,
+      "raddr": "120.24.206.219",
+      "tmp_field_sel": true,
+      "memo": "﻿T37幻想杀戮经典服"
+    },
+    {
+      "id": 278,
+      "raddr": "119.23.140.3",
+      "tmp_field_sel": true,
+      "memo": "﻿X40橡子菜鸟三方服"
+    },
+    {
+      "id": 317,
+      "raddr": "218.48.25.35",
+      "tmp_field_sel": true,
+      "memo": "[KR]XENON RPG"
+    },
+    {
+      "id": 319,
+      "raddr": "49.234.50.45",
+      "tmp_field_sel": true,
+      "memo": "[~~RPG~~]$$$$$"
+    },
+    {
+      "id": 320,
+      "raddr": "124.221.43.76",
+      "tmp_field_sel": true,
+      "memo": "﻿#紫荆之巅]#RPG房"
+    },
+    {
+      "id": 321,
+      "raddr": "134.175.224.117",
+      "tmp_field_sel": true,
+      "memo": "【CN】纯净多特"
+    },
+    {
+      "id": 322,
+      "raddr": "1.12.60.31",
+      "tmp_field_sel": true,
+      "memo": "[趣味]-弑神巅峰"
+    },
+    {
+      "id": 323,
+      "raddr": "124.221.139.51",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】多人战役110#"
+    },
+    {
+      "id": 324,
+      "raddr": "58.220.27.152",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-弑神巅峰"
+    },
+    {
+      "id": 441,
+      "raddr": "123.113.150.221",
+      "tmp_field_sel": true,
+      "memo": "￦纯净四人"
+    },
+    {
+      "id": 442,
+      "raddr": "82.157.247.242",
+      "tmp_field_sel": true,
+      "memo": "﻿求_生_之_路RPG破解版"
+    },
+    {
+      "id": 446,
+      "raddr": "123.113.145.131",
+      "tmp_field_sel": true,
+      "memo": "【CN】纯净战役"
+    },
+    {
+      "id": 447,
+      "raddr": "43.139.136.3",
+      "tmp_field_sel": true,
+      "memo": "时光之屋"
+    },
+    {
+      "id": 448,
+      "raddr": "123.207.202.114",
+      "tmp_field_sel": true,
+      "memo": "求生之路啥子竞赛"
+    },
+    {
+      "id": 449,
+      "raddr": "43.139.15.136",
+      "tmp_field_sel": true,
+      "memo": "地域魔都RPG4"
+    },
+    {
+      "id": 454,
+      "raddr": "124.220.44.10",
+      "tmp_field_sel": true,
+      "memo": "【CN】纯净对抗"
+    },
+    {
+      "id": 457,
+      "raddr": "101.42.172.84",
+      "tmp_field_sel": true,
+      "memo": "﻿鸽子团"
+    },
+    {
+      "id": 462,
+      "raddr": "124.223.216.46",
+      "tmp_field_sel": true,
+      "memo": "4人装甲服"
+    },
+    {
+      "id": 463,
+      "raddr": "81.70.96.146",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】纯净三方服"
+    },
+    {
+      "id": 464,
+      "raddr": "101.43.61.55",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】多人战役120#"
+    },
+    {
+      "id": 468,
+      "raddr": "124.221.150.114",
+      "tmp_field_sel": true,
+      "memo": "暗星#1"
+    },
+    {
+      "id": 4791,
+      "raddr": "47.109.131.80",
+      "tmp_field_sel": true,
+      "memo": "无限多特"
+    },
+    {
+      "id": 9712,
+      "raddr": "43.138.203.127",
+      "tmp_field_sel": true,
+      "memo": "求Pの多特"
     }
   ]
 }
