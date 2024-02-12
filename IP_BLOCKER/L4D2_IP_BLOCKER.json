@@ -6,67 +6,61 @@
       "id": 0,
       "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "[AC]X84纯净RPG★正常服"
+      "memo": "[AC]X23纯净RPG★正常服"
     },
     {
-      "id": 8,
+      "id": 4,
       "raddr": "211.99.98.118",
       "tmp_field_sel": true,
       "memo": "暗星#2"
     },
     {
-      "id": 89,
+      "id": 1192,
       "raddr": "43.249.194.250",
       "tmp_field_sel": true,
       "memo": "﻿「天域国度」X光娱乐4服"
     },
     {
-      "id": 1108,
-      "raddr": "43.249.194.239",
-      "tmp_field_sel": true,
-      "memo": "[K服 Lv10]纯净4服[当前78%]"
-    },
-    {
-      "id": 1902,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿T28幻想杀戮高手服"
-    },
-    {
-      "id": 1903,
+      "id": 1979,
       "raddr": "120.77.206.2",
       "tmp_field_sel": true,
-      "memo": "﻿91#杀戮世界新手服"
+      "memo": "﻿44#杀戮世界菜鸟服"
     },
     {
-      "id": 1904,
+      "id": 1980,
       "raddr": "120.78.174.64",
       "tmp_field_sel": true,
-      "memo": "﻿16#杀戮世界高手服"
+      "memo": "﻿20#杀戮世界挂机服"
     },
     {
-      "id": 3892,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T50幻想杀戮菜鸟服"
-    },
-    {
-      "id": 3893,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X10橡子杀戮经典服"
-    },
-    {
-      "id": 3895,
+      "id": 1981,
       "raddr": "120.77.24.39",
       "tmp_field_sel": true,
-      "memo": "﻿#62杀戮世界新手服"
+      "memo": "﻿#66杀戮世界菜鸟服"
     },
     {
-      "id": 3899,
-      "raddr": "47.109.131.80",
+      "id": 1983,
+      "raddr": "120.79.5.148",
       "tmp_field_sel": true,
-      "memo": "无限多特"
+      "memo": "﻿X16橡子杀戮菜鸟服"
+    },
+    {
+      "id": 1988,
+      "raddr": "120.79.41.192",
+      "tmp_field_sel": true,
+      "memo": "﻿27#杀戮世界菜鸟服"
+    },
+    {
+      "id": 1991,
+      "raddr": "120.79.5.0",
+      "tmp_field_sel": true,
+      "memo": "﻿T44幻想杀戮菜鸟服"
+    },
+    {
+      "id": 2028,
+      "raddr": "43.249.194.239",
+      "tmp_field_sel": true,
+      "memo": "[K服 Lv10]纯净4服[当前68%]"
     }
   ]
 }
