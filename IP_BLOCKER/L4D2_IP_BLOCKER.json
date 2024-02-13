@@ -6,61 +6,55 @@
       "id": 0,
       "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "[AC]X23纯净RPG★正常服"
+      "memo": "[AC]X9纯净RPG★正常服"
     },
     {
-      "id": 4,
+      "id": 2,
       "raddr": "211.99.98.118",
       "tmp_field_sel": true,
       "memo": "暗星#2"
     },
     {
-      "id": 1192,
+      "id": 87,
+      "raddr": "120.77.24.39",
+      "tmp_field_sel": true,
+      "memo": "﻿#64杀戮世界菜鸟服"
+    },
+    {
+      "id": 88,
+      "raddr": "120.79.5.148",
+      "tmp_field_sel": true,
+      "memo": "﻿X5橡子杀戮菜鸟服"
+    },
+    {
+      "id": 89,
+      "raddr": "120.79.5.0",
+      "tmp_field_sel": true,
+      "memo": "﻿T41幻想杀戮新手服"
+    },
+    {
+      "id": 90,
+      "raddr": "120.79.41.192",
+      "tmp_field_sel": true,
+      "memo": "﻿T26幻想杀戮经典服"
+    },
+    {
+      "id": 193,
       "raddr": "43.249.194.250",
       "tmp_field_sel": true,
       "memo": "﻿「天域国度」X光娱乐4服"
     },
     {
-      "id": 1979,
-      "raddr": "120.77.206.2",
-      "tmp_field_sel": true,
-      "memo": "﻿44#杀戮世界菜鸟服"
-    },
-    {
-      "id": 1980,
+      "id": 1370,
       "raddr": "120.78.174.64",
       "tmp_field_sel": true,
-      "memo": "﻿20#杀戮世界挂机服"
+      "memo": "﻿4#杀戮世界新手服"
     },
     {
-      "id": 1981,
-      "raddr": "120.77.24.39",
+      "id": 2101,
+      "raddr": "120.77.206.2",
       "tmp_field_sel": true,
-      "memo": "﻿#66杀戮世界菜鸟服"
-    },
-    {
-      "id": 1983,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X16橡子杀戮菜鸟服"
-    },
-    {
-      "id": 1988,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿27#杀戮世界菜鸟服"
-    },
-    {
-      "id": 1991,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T44幻想杀戮菜鸟服"
-    },
-    {
-      "id": 2028,
-      "raddr": "43.249.194.239",
-      "tmp_field_sel": true,
-      "memo": "[K服 Lv10]纯净4服[当前68%]"
+      "memo": "﻿49#杀戮世界经典服"
     }
   ]
 }
