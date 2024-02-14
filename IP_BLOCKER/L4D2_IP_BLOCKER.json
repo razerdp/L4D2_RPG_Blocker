@@ -6,55 +6,55 @@
       "id": 0,
       "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "[AC]X9纯净RPG★正常服"
+      "memo": "[AC]X71纯净RPG★正常服"
     },
     {
-      "id": 2,
+      "id": 157,
       "raddr": "211.99.98.118",
       "tmp_field_sel": true,
       "memo": "暗星#2"
     },
     {
-      "id": 87,
-      "raddr": "120.77.24.39",
-      "tmp_field_sel": true,
-      "memo": "﻿#64杀戮世界菜鸟服"
-    },
-    {
-      "id": 88,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X5橡子杀戮菜鸟服"
-    },
-    {
-      "id": 89,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T41幻想杀戮新手服"
-    },
-    {
-      "id": 90,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿T26幻想杀戮经典服"
-    },
-    {
-      "id": 193,
+      "id": 1636,
       "raddr": "43.249.194.250",
       "tmp_field_sel": true,
       "memo": "﻿「天域国度」X光娱乐4服"
     },
     {
-      "id": 1370,
-      "raddr": "120.78.174.64",
+      "id": 4755,
+      "raddr": "43.249.194.239",
       "tmp_field_sel": true,
-      "memo": "﻿4#杀戮世界新手服"
+      "memo": "[K服 Lv10]纯净6服[当前48%]"
     },
     {
-      "id": 2101,
-      "raddr": "120.77.206.2",
+      "id": 6268,
+      "raddr": "222.187.254.87",
       "tmp_field_sel": true,
-      "memo": "﻿49#杀戮世界经典服"
+      "memo": "23#帝王RPG战役服[数据互通]"
+    },
+    {
+      "id": 6269,
+      "raddr": "222.187.227.148",
+      "tmp_field_sel": true,
+      "memo": "无限火力"
+    },
+    {
+      "id": 8022,
+      "raddr": "222.187.224.13",
+      "tmp_field_sel": true,
+      "memo": "星云天空药抗会所 | "
+    },
+    {
+      "id": 8037,
+      "raddr": "61.136.166.72",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-巅峰模式"
+    },
+    {
+      "id": 8039,
+      "raddr": "121.62.22.28",
+      "tmp_field_sel": true,
+      "memo": "﻿[趣味]-巅峰模式"
     }
   ]
 }
