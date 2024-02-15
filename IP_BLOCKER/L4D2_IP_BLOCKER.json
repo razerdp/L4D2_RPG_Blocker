@@ -4,57 +4,87 @@
   "data": [
     {
       "id": 0,
-      "raddr": "150.138.77.10",
+      "raddr": "123.113.150.221",
       "tmp_field_sel": true,
-      "memo": "[AC]X71纯净RPG★正常服"
+      "memo": "四人战役"
     },
     {
-      "id": 157,
-      "raddr": "211.99.98.118",
+      "id": 1,
+      "raddr": "124.221.139.51",
       "tmp_field_sel": true,
-      "memo": "暗星#2"
+      "memo": "【午夜狂欢】多人战役105#"
     },
     {
-      "id": 1636,
-      "raddr": "43.249.194.250",
+      "id": 2,
+      "raddr": "49.234.50.92",
       "tmp_field_sel": true,
-      "memo": "﻿「天域国度」X光娱乐4服"
+      "memo": "神喵の求生之路②"
     },
     {
-      "id": 4755,
-      "raddr": "43.249.194.239",
+      "id": 4,
+      "raddr": "101.43.180.236",
       "tmp_field_sel": true,
-      "memo": "[K服 Lv10]纯净6服[当前48%]"
+      "memo": "木e院求生之路2分部"
     },
     {
-      "id": 6268,
-      "raddr": "222.187.254.87",
+      "id": 5,
+      "raddr": "1.12.60.31",
       "tmp_field_sel": true,
-      "memo": "23#帝王RPG战役服[数据互通]"
+      "memo": "[趣味]-弑神巅峰"
     },
     {
-      "id": 6269,
-      "raddr": "222.187.227.148",
+      "id": 6,
+      "raddr": "43.138.203.127",
       "tmp_field_sel": true,
-      "memo": "无限火力"
+      "memo": "求Pの多特"
     },
     {
-      "id": 8022,
-      "raddr": "222.187.224.13",
+      "id": 7,
+      "raddr": "101.43.61.55",
       "tmp_field_sel": true,
-      "memo": "星云天空药抗会所 | "
+      "memo": "【午夜狂欢】多人战役120#"
     },
     {
-      "id": 8037,
-      "raddr": "61.136.166.72",
+      "id": 9,
+      "raddr": "123.113.145.131",
       "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
+      "memo": "【CN】纯净战役"
     },
     {
-      "id": 8039,
-      "raddr": "121.62.22.28",
+      "id": 10,
+      "raddr": "49.235.121.126",
       "tmp_field_sel": true,
-      "memo": "﻿[趣味]-巅峰模式"
+      "memo": "﻿Y花独月D"
+    },
+    {
+      "id": 19,
+      "raddr": "43.136.57.180",
+      "tmp_field_sel": true,
+      "memo": "﻿五月病"
+    },
+    {
+      "id": 808,
+      "raddr": "134.175.224.117",
+      "tmp_field_sel": true,
+      "memo": "【CN】纯净多特"
+    },
+    {
+      "id": 1236,
+      "raddr": "124.221.43.76",
+      "tmp_field_sel": true,
+      "memo": "﻿#紫荆之巅]#RPG房"
+    },
+    {
+      "id": 1971,
+      "raddr": "124.202.159.130",
+      "tmp_field_sel": true,
+      "memo": "156300 L4D2 Server"
+    },
+    {
+      "id": 2760,
+      "raddr": "43.139.136.3",
+      "tmp_field_sel": true,
+      "memo": "时光之屋"
     }
   ]
 }
