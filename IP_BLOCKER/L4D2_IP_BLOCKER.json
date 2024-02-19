@@ -9,76 +9,94 @@
       "memo": "四人战役"
     },
     {
-      "id": 1,
+      "id": 3,
       "raddr": "1.12.60.31",
       "tmp_field_sel": true,
       "memo": "[趣味]-弑神巅峰"
     },
     {
-      "id": 4,
-      "raddr": "124.222.2.254",
-      "tmp_field_sel": true,
-      "memo": "永世乐土"
-    },
-    {
       "id": 5,
-      "raddr": "124.221.150.114",
+      "raddr": "101.43.61.55",
       "tmp_field_sel": true,
-      "memo": "暗星#1"
+      "memo": "【午夜狂欢】多人战役118#"
     },
     {
-      "id": 6,
+      "id": 9,
+      "raddr": "124.221.139.51",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】挂机服"
+    },
+    {
+      "id": 27,
       "raddr": "124.202.159.130",
       "tmp_field_sel": true,
       "memo": "156300 L4D2 Server"
     },
     {
-      "id": 10,
+      "id": 28,
       "raddr": "124.221.43.76",
       "tmp_field_sel": true,
       "memo": "﻿#紫荆之巅]#RPG房"
     },
     {
-      "id": 12,
+      "id": 33,
       "raddr": "119.91.143.172",
       "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG拾叁服"
+      "memo": "﻿【完美世界】RPG拾伍服"
     },
     {
-      "id": 13,
-      "raddr": "123.113.145.131",
-      "tmp_field_sel": true,
-      "memo": "【CN】纯净战役"
-    },
-    {
-      "id": 14,
+      "id": 38,
       "raddr": "119.91.204.131",
       "tmp_field_sel": true,
       "memo": "﻿【完美世界】RPG肆服"
     },
     {
-      "id": 16,
-      "raddr": "124.221.139.51",
+      "id": 753,
+      "raddr": "134.175.224.117",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】多人战役108#"
+      "memo": "【CN】纯净多特"
     },
     {
-      "id": 18,
-      "raddr": "120.53.122.246",
+      "id": 929,
+      "raddr": "43.139.15.136",
       "tmp_field_sel": true,
-      "memo": "﻿【完美世界】RPG叁服"
+      "memo": "地域魔都RPG1"
     },
     {
-      "id": 33,
-      "raddr": "193.112.85.169",
+      "id": 1944,
+      "raddr": "123.113.145.131",
       "tmp_field_sel": true,
-      "memo": "﻿〤公益RPG〤超爽修仙服"
+      "memo": "【CN】纯净战役"
     },
     {
-      "id": 256,
+      "id": 2619,
+      "raddr": "175.178.233.180",
+      "tmp_field_sel": true,
+      "memo": "10秒7特[4]"
+    },
+    {
+      "id": 2711,
       "raddr": "43.139.136.3",
       "tmp_field_sel": true,
       "memo": "时光之屋"
+    },
+    {
+      "id": 3489,
+      "raddr": "124.222.2.254",
+      "tmp_field_sel": true,
+      "memo": "永世乐土"
+    },
+    {
+      "id": 4098,
+      "raddr": "122.51.41.190",
+      "tmp_field_sel": true,
+      "memo": "﻿星轨黑枪王"
+    },
+    {
+      "id": 5079,
+      "raddr": "81.70.96.146",
+      "tmp_field_sel": true,
+      "memo": "【午夜狂欢】纯净三方服"
     }
   ]
 }
