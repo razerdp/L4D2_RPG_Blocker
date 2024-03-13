@@ -4,45 +4,63 @@
   "data": [
     {
       "id": 0,
-      "raddr": "218.48.25.35",
+      "raddr": "150.138.77.10",
       "tmp_field_sel": true,
-      "memo": "[KR]XENON RPG"
+      "memo": "[AC]X55纯净RPG★正常服"
     },
     {
-      "id": 2,
-      "raddr": "101.43.61.55",
+      "id": 6,
+      "raddr": "150.138.79.44",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】经典服务器21#"
+      "memo": "卖唱的0w0求生猪窝#4"
     },
     {
-      "id": 3,
-      "raddr": "121.62.22.28",
+      "id": 390,
+      "raddr": "43.249.194.250",
       "tmp_field_sel": true,
-      "memo": "[趣味]-弑神巅峰"
+      "memo": "﻿「天域国度」X光娱乐4服"
     },
     {
-      "id": 12,
-      "raddr": "1.34.32.32",
+      "id": 5957,
+      "raddr": "120.79.5.148",
       "tmp_field_sel": true,
-      "memo": "louder0804寫實專家"
+      "memo": "﻿X6橡子杀戮菜鸟服"
     },
     {
-      "id": 13,
-      "raddr": "36.232.19.223",
+      "id": 5958,
+      "raddr": "120.78.174.64",
       "tmp_field_sel": true,
-      "memo": "阿起世界 RPG 戰役"
+      "memo": "﻿13#杀戮世界经典服"
     },
     {
-      "id": 14,
-      "raddr": "43.156.101.68",
+      "id": 5959,
+      "raddr": "120.77.24.39",
       "tmp_field_sel": true,
-      "memo": "﻿48.无限火力"
+      "memo": "﻿#67杀戮世界菜鸟服"
     },
     {
-      "id": 843,
-      "raddr": "114.132.252.231",
+      "id": 5960,
+      "raddr": "120.79.5.0",
       "tmp_field_sel": true,
-      "memo": "﻿天下第一RPG"
+      "memo": "﻿#51幻想杀戮经典服"
+    },
+    {
+      "id": 5967,
+      "raddr": "120.79.41.192",
+      "tmp_field_sel": true,
+      "memo": "﻿27#杀戮世界菜鸟服"
+    },
+    {
+      "id": 5976,
+      "raddr": "120.77.206.2",
+      "tmp_field_sel": true,
+      "memo": "﻿95#杀戮世界菜鸟服"
+    },
+    {
+      "id": 7815,
+      "raddr": "47.98.234.249",
+      "tmp_field_sel": true,
+      "memo": "新手药役"
     }
   ]
 }
