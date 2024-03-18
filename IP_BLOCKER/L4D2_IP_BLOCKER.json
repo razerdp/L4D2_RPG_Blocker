@@ -4,147 +4,93 @@
   "data": [
     {
       "id": 0,
-      "raddr": "120.77.24.39",
+      "raddr": "60.71.27.198",
       "tmp_field_sel": true,
-      "memo": "﻿#64杀戮世界菜鸟服"
+      "memo": "JP/CN 30"
     },
     {
       "id": 1,
-      "raddr": "120.78.174.64",
-      "tmp_field_sel": true,
-      "memo": "﻿5#杀戮世界新手服"
-    },
-    {
-      "id": 2,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿T27幻想杀戮经典服"
-    },
-    {
-      "id": 5,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T42幻想杀戮新手服"
-    },
-    {
-      "id": 8,
-      "raddr": "120.77.206.2",
-      "tmp_field_sel": true,
-      "memo": "﻿41#杀戮世界新手服"
-    },
-    {
-      "id": 21,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X10橡子杀戮经典服"
-    },
-    {
-      "id": 78,
-      "raddr": "8.137.33.22",
-      "tmp_field_sel": true,
-      "memo": "﻿#穷途末路#RPG房"
-    },
-    {
-      "id": 82,
-      "raddr": "8.134.98.134",
-      "tmp_field_sel": true,
-      "memo": "40秒4特[7]"
-    },
-    {
-      "id": 83,
-      "raddr": "8.138.97.159",
-      "tmp_field_sel": true,
-      "memo": "墨璃的求生之路"
-    },
-    {
-      "id": 84,
-      "raddr": "8.134.120.119",
-      "tmp_field_sel": true,
-      "memo": "四人服务器"
-    },
-    {
-      "id": 582,
       "raddr": "218.48.25.35",
       "tmp_field_sel": true,
       "memo": "[KR]XENON RPG 2"
     },
     {
-      "id": 584,
-      "raddr": "114.132.252.231",
+      "id": 3,
+      "raddr": "120.77.206.2",
       "tmp_field_sel": true,
-      "memo": "﻿修仙大佬RPG"
+      "memo": "﻿92#杀戮世界新手服"
     },
     {
-      "id": 585,
-      "raddr": "124.221.43.76",
+      "id": 4,
+      "raddr": "120.78.174.64",
       "tmp_field_sel": true,
-      "memo": "﻿#紫荆之巅]#RPG房"
+      "memo": "﻿11#杀戮世界经典服"
     },
     {
-      "id": 587,
-      "raddr": "124.221.139.51",
+      "id": 5,
+      "raddr": "120.77.24.39",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】挂机服"
+      "memo": "﻿#63杀戮世界新手服"
     },
     {
-      "id": 590,
-      "raddr": "49.234.50.92",
+      "id": 6,
+      "raddr": "120.79.41.192",
       "tmp_field_sel": true,
-      "memo": "神喵の求生之路②"
+      "memo": "﻿25#杀戮世界菜鸟服"
     },
     {
-      "id": 591,
-      "raddr": "43.138.112.221",
+      "id": 8,
+      "raddr": "120.79.5.148",
       "tmp_field_sel": true,
-      "memo": "【CN】纯净战役"
+      "memo": "﻿X19橡子杀戮经典服"
     },
     {
-      "id": 592,
-      "raddr": "81.70.96.146",
+      "id": 12,
+      "raddr": "120.79.5.0",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】经典服务器23#"
+      "memo": "﻿T54幻想杀戮新手服"
     },
     {
-      "id": 593,
-      "raddr": "43.139.15.136",
-      "tmp_field_sel": true,
-      "memo": "地域魔都RPG1"
-    },
-    {
-      "id": 595,
-      "raddr": "43.139.136.3",
-      "tmp_field_sel": true,
-      "memo": "时光之屋"
-    },
-    {
-      "id": 598,
-      "raddr": "82.156.217.103",
-      "tmp_field_sel": true,
-      "memo": "[FK]进阶包抗100tick#2"
-    },
-    {
-      "id": 601,
-      "raddr": "43.139.114.184",
-      "tmp_field_sel": true,
-      "memo": "鸟白岛的夏天"
-    },
-    {
-      "id": 622,
+      "id": 33,
       "raddr": "1.34.32.32",
       "tmp_field_sel": true,
       "memo": "louder0804寫實專家"
     },
     {
-      "id": 623,
-      "raddr": "36.232.20.117",
+      "id": 34,
+      "raddr": "43.156.101.68",
       "tmp_field_sel": true,
-      "memo": "阿起世界 RPG 戰役"
+      "memo": "﻿48.无限火力"
     },
     {
-      "id": 8235,
+      "id": 1159,
+      "raddr": "222.186.42.204",
+      "tmp_field_sel": true,
+      "memo": "﻿暗黑之魂[RPG]#5"
+    },
+    {
+      "id": 1167,
+      "raddr": "115.231.218.160",
+      "tmp_field_sel": true,
+      "memo": "❷❹[腐尸之地]♂RPG"
+    },
+    {
+      "id": 2238,
       "raddr": "47.98.234.249",
       "tmp_field_sel": true,
       "memo": "新手药役"
+    },
+    {
+      "id": 2628,
+      "raddr": "222.187.254.87",
+      "tmp_field_sel": true,
+      "memo": "9#帝王RPG战役服[数据互通]"
+    },
+    {
+      "id": 3313,
+      "raddr": "36.232.41.33",
+      "tmp_field_sel": true,
+      "memo": "阿起世界 RPG 戰役"
     }
   ]
 }
