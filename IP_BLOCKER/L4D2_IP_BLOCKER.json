@@ -10,69 +10,33 @@
     },
     {
       "id": 2,
-      "raddr": "120.79.5.0",
-      "tmp_field_sel": true,
-      "memo": "﻿T55幻想杀戮菜鸟服"
-    },
-    {
-      "id": 5,
-      "raddr": "120.79.41.192",
-      "tmp_field_sel": true,
-      "memo": "﻿T23幻想杀戮新手服"
-    },
-    {
-      "id": 6,
-      "raddr": "120.78.174.64",
-      "tmp_field_sel": true,
-      "memo": "﻿14#杀戮世界经典服"
-    },
-    {
-      "id": 10,
-      "raddr": "120.79.5.148",
-      "tmp_field_sel": true,
-      "memo": "﻿X1橡子杀戮新手服"
-    },
-    {
-      "id": 11,
-      "raddr": "120.77.206.2",
-      "tmp_field_sel": true,
-      "memo": "﻿94#杀戮世界菜鸟服"
-    },
-    {
-      "id": 14,
-      "raddr": "120.77.24.39",
-      "tmp_field_sel": true,
-      "memo": "﻿#53杀戮世界新手服"
-    },
-    {
-      "id": 27,
-      "raddr": "1.34.32.32",
-      "tmp_field_sel": true,
-      "memo": "louder0804寫實專家"
-    },
-    {
-      "id": 28,
       "raddr": "36.232.41.33",
       "tmp_field_sel": true,
       "memo": "阿起世界 RPG 戰役"
     },
     {
-      "id": 29,
-      "raddr": "43.156.101.68",
+      "id": 3,
+      "raddr": "119.23.140.3",
       "tmp_field_sel": true,
-      "memo": "﻿48.无限火力"
+      "memo": "﻿X41橡子杀戮新手服"
     },
     {
-      "id": 3641,
-      "raddr": "106.14.195.72",
+      "id": 4,
+      "raddr": "120.24.67.55",
       "tmp_field_sel": true,
-      "memo": "【午夜狂欢】经典服务器20#"
+      "memo": "﻿T7幻想杀戮新手服"
     },
     {
-      "id": 3881,
-      "raddr": "174.58.41.110",
+      "id": 9,
+      "raddr": "119.23.51.163",
       "tmp_field_sel": true,
-      "memo": "8Cap"
+      "memo": "﻿#83杀戮世界新手服"
+    },
+    {
+      "id": 2760,
+      "raddr": "1.52.45.152",
+      "tmp_field_sel": true,
+      "memo": "Kaz's L4D2"
     }
   ]
 }
